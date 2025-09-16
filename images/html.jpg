@@ -1,0 +1,1241 @@
+<!DOCTYPE html><!-- Last Published: Tue Mar 25 2025 13:16:32 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.scalenut.com" data-wf-page="652fb795965b47158f28f7ca" data-wf-site="60ef088dd8fef919efabb412" lang="en" data-wf-collection="652fb795965b47158f28f8cc" data-wf-item-slug="html-codes-list"><head><meta charset="utf-8"/><title>Mastering HTML: The Complete HTML Codes List Reference</title><meta content="Access the essential HTML codes list you need for web development. Our blog provides a comprehensive reference guide for all your coding needs." name="description"/><meta content="Mastering HTML: The Complete HTML Codes List Reference" property="og:title"/><meta content="Access the essential HTML codes list you need for web development. Our blog provides a comprehensive reference guide for all your coding needs." property="og:description"/><meta content="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list.webp" property="og:image"/><meta content="Mastering HTML: The Complete HTML Codes List Reference" property="twitter:title"/><meta content="Access the essential HTML codes list you need for web development. Our blog provides a comprehensive reference guide for all your coding needs." property="twitter:description"/><meta content="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list.webp" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/css/scalenutsm.webflow.e730a642f.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Great Vibes:400","PT Sans:400,400italic,700,700italic","DM Sans:regular,500,600,700,800,900"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/61153269082539deef9b78ea_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6115324ef9133b53291ff381_webclip.png" rel="apple-touch-icon"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MKVFL72WXC"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZGVlNj', true);gtag('config', 'G-MKVFL72WXC');</script><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '3539489179480801');fbq('track', 'PageView');</script><!-- microsoft clarity Code -->
+<script type=“text/javascript”>
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src=“https://www.clarity.ms/tag/”+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, “clarity”, “script”, “ag8sudn1va”);
+</script>
+<!-- microsoft clarity  Code -->
+
+<script>
+  // Disable the original CSS link
+/*var originalLink = document.querySelector('link[href="https://assets-global.website-files.com/60ef088dd8fef919efabb412/css/scalenutsm.webflow.5312cf574.min.css"]');
+if (originalLink) {
+    originalLink.disabled = true;
+}
+
+// Inject a new link tag
+var newLink = document.createElement('link');
+newLink.rel = 'stylesheet';
+newLink.href = 'https://assets-global.website-files.com/60ef088dd8fef919efabb412/css/scalenutsm.webflow.5312cf574.min.css';
+newLink.async = true; // or newLink.defer = true;
+document.head.appendChild(newLink);
+
+  */
+</script>
+
+<!-- Google Tag Manager- Old -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PWZP6XQ');</script>
+    <!-- End Google Tag Manager -->
+
+    <style>
+      
+    
+    html {
+       scroll-padding-top: 20px;
+    }
+    
+    #credential_picker_container {
+        border: none;
+        height: 330px;
+        position: fixed;
+        right: -8px !important;
+        top: 60px !important;
+        width: 391px;
+        z-index: 9999;
+    }
+    .userNone {
+    display: none;
+    }
+    
+    .UserInfo {
+    display: flex !important;
+    }
+    
+    .userImage {
+    width: 25px;
+    border-radius: 50%;
+    margin-left: 8px;
+    }
+    
+    </style>
+    
+    
+    
+    
+    
+    
+    
+    <script defer>
+      
+    window.onload = function() {
+        setTimeout(function() {
+            function getAllUrlParamsFun(url) {
+            // get query string from url (optional) or window
+            var queryString = url ? url.split('?')[1] : window.location.search.slice(1);
+            // we'll store the parameters here
+            var obj = {};
+              console.log("all parameters",obj,queryString);
+            // if query string exists
+            if (queryString) {
+              // stuff after # is not part of query string, so get rid of it
+              queryString = queryString.split('#')[0];
+              // split our query string into its component parts
+              var arr = queryString.split('&');
+              console.log("after split",obj);
+              for (var i = 0; i < arr.length; i++) {
+                // separate the keys and the values
+                var a = arr[i].split('=');
+                // set parameter name and value (use 'true' if empty)
+                var paramName = a[0];
+                var paramValue = typeof (a[1]) === 'undefined' ? true : a[1];
+                // (optional) keep case consistent
+                paramName = paramName.toLowerCase();
+                if (typeof paramValue === 'string') paramValue = paramValue.toLowerCase();
+                // if the paramName ends with square brackets, e.g. colors[] or colors[2]
+                if (paramName.match(/\[(\d+)?\]$/)) {
+                  // create key if it doesn't exist
+                  var key = paramName.replace(/\[(\d+)?\]/, '');
+                  if (!obj[key]) obj[key] = [];
+                  // if it's an indexed array e.g. colors[2]
+                  if (paramName.match(/\[\d+\]$/)) {
+                    // get the index value and add the entry at the appropriate position
+                    var index = /\[(\d+)\]/.exec(paramName)[1];
+                    obj[key][index] = paramValue;
+                  } else {
+                    // otherwise add the value to the end of the array
+                    obj[key].push(paramValue);
+                  }
+                } else {
+                  // we're dealing with a string
+                  if (!obj[paramName]) {
+                    // if it doesn't exist, create property
+                    obj[paramName] = paramValue;
+                  } else if (obj[paramName] && typeof obj[paramName] === 'string'){
+                    // if property does exist and it's a string, convert it to an array
+                    obj[paramName] = [obj[paramName]];
+                    obj[paramName].push(paramValue);
+                  } else {
+                    // otherwise add the property
+                    obj[paramName].push(paramValue);
+                  }
+                }
+              }
+            }
+            return obj;
+          }
+          /* get data object */
+          var getAllUrlParams = getAllUrlParamsFun();
+          
+          /* Check if the url with utm_parameters */
+          let isEmpty = (Object.keys(getAllUrlParams).length === 0)
+          if(!isEmpty){
+            /* utm data */
+            // Encode the object as JSON
+            var encodedObject = JSON.stringify(getAllUrlParams);
+
+            // Set the cookie expiry to one hour from the current time
+            var expires = new Date();
+            expires.setTime(expires.getTime() + 60 * 60 * 1000); // 1 hour from now
+
+            // Store the encoded object in a cookie with the updated expiry
+            document.cookie = 'utmCookie=' + encodedObject + ';'  + ' path=/';
+            console.log("utmCookie created");
+            let utm_source_value = getAllUrlParams.utm_source;
+            let utm_medium_value = getAllUrlParams.utm_medium;
+            let utm_campaign_value = getAllUrlParams.utm_campaign;
+            /* webflow form object (You should add embed code under webflow designer */
+            var utm_source_form_elem = document.getElementById("utm_source");
+            var utm_medium_form_elem = document.getElementById("utm_medium")
+            var utm_campaign_form_elem = document.getElementById("utm_campaign");
+            /* Check if elem exsist to avoid console errors  */
+            if(utm_source_form_elem){
+              utm_source_form_elem.value = utm_source_value;
+            }
+            if(utm_medium_form_elem){
+              utm_medium_form_elem.value = utm_medium_value;
+            }
+            if(utm_campaign_form_elem){
+              utm_campaign_form_elem.value = utm_campaign_value;
+            }
+          }
+      
+        
+              
+          //Navbar - Get Started
+          if(!isEmpty){
+            /* utm data */
+            let utm_source_value = getAllUrlParams.utm_source;
+            let utm_medium_value = getAllUrlParams.utm_medium;
+            let utm_campaign_value = getAllUrlParams.utm_campaign;
+            /* webflow form object (You should add embed code under webflow designer */
+            var utm_source_form_elem = document.getElementById("utm_source_nav");
+            var utm_medium_form_elem = document.getElementById("utm_medium_nav")
+            var utm_campaign_form_elem = document.getElementById("utm_campaign_nav");
+            /* Check if elem exsist to avoid console errors  */
+            if(utm_source_form_elem){
+              utm_source_form_elem.value = utm_source_value;
+            }
+            if(utm_medium_form_elem){
+              utm_medium_form_elem.value = utm_medium_value;
+            }
+            if(utm_campaign_form_elem){
+              utm_campaign_form_elem.value = utm_campaign_value;
+            }
+          }
+      
+      
+      //Home - Get Started
+          if(!isEmpty){
+            /* utm data */
+            let utm_source_value = getAllUrlParams.utm_source;
+            let utm_medium_value = getAllUrlParams.utm_medium;
+            let utm_campaign_value = getAllUrlParams.utm_campaign;
+            let refer_value = getAllUrlParams.refer;
+                
+            /* webflow form object (You should add embed code under webflow designer */
+            var utm_source_form_elem = document.getElementById("utm_source_home");
+            var utm_medium_form_elem = document.getElementById("utm_medium_home")
+            var utm_campaign_form_elem = document.getElementById("utm_campaign_home");
+            var refer_form_elem = document.getElementById("refer_home");
+    
+          
+            /* Check if elem exsist to avoid console errors  */
+            if(utm_source_form_elem){
+              utm_source_form_elem.value = utm_source_value;
+            }
+            if(utm_medium_form_elem){
+              utm_medium_form_elem.value = utm_medium_value;
+            }
+            if(utm_campaign_form_elem){
+              utm_campaign_form_elem.value = utm_campaign_value;
+            }
+            if(refer_form_elem){
+              refer_form_elem.value = refer_value;
+            }
+          }
+          
+           if(getAllUrlParams.utm_source){
+        	document.getElementById("utm_source_nav").defaultValue = getAllUrlParams.utm_source;
+            }
+
+            if(getAllUrlParams.utm_medium){
+                document.getElementById("utm_medium_nav").defaultValue = getAllUrlParams.utm_medium;
+            }
+
+            if(getAllUrlParams.utm_campaign){
+              document.getElementById("utm_campaign_nav").defaultValue = getAllUrlParams.utm_campaign;
+            }
+      
+      
+          
+        // Modal CTA position gathering
+        const ctaButtons = document.querySelectorAll('[data-position]');
+        
+        const positionField = document.getElementById('cta-position');
+        
+        ctaButtons.forEach((button) =>
+          button.addEventListener('click', () => {
+            const position = button.getAttribute('data-position');
+            positionField.value = position;
+          })
+        );
+    }, 3000);
+    };
+    function createLandingPageCookie() {
+  var cookieName = "landing_page";
+  var existingCookie = getCookie(cookieName);
+  var cookieValue = location.pathname || "/";
+
+  if (existingCookie === null) {
+    // Calculate the expiration date for 180 days from now
+    var expirationDate = new Date();
+    expirationDate.setDate(expirationDate.getDate() + 180);
+
+    // Convert the expiration date to a formatted string
+    var expirationDateString = expirationDate.toUTCString();
+
+    // Construct the cookie string with the expiration date
+    var cookieString =
+      encodeURIComponent(cookieName) + "=" + encodeURIComponent(cookieValue) +
+      "; path=/; SameSite=Strict; expires=" + expirationDateString;
+
+    // Set the cookie
+    document.cookie = cookieString;
+  }
+}
+
+ 
+function getCookie(name) {
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var cookieArray = decodedCookie.split(";");
+
+  for (var i = 0; i < cookieArray.length; i++) {
+    var cookie = cookieArray[i];
+
+    while (cookie.charAt(0) === " ") {
+      cookie = cookie.substring(1);
+    }
+
+    if (cookie.indexOf(name + "=") === 0) {
+      return cookie.substring(name.length + 1, cookie.length);
+    }
+  }
+
+  return null; // Cookie not found
+}
+createLandingPageCookie();
+    
+    </script>
+
+<!-- calendly popup(new style) -->
+  <style>
+        .tiny-iframe-modal {
+            position: fixed;
+            z-index: 9999999;
+            left: 0;
+            top: 0;
+            overflow: hidden;
+            background-color: rgba(0, 0, 0, 0.4);
+            width: 1px;
+            height: 1px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .tiny-iframe-modal-content {
+            max-width: max-content;
+            position: relative;
+            margin: auto;
+        }
+
+        .tiny-iframe-close {
+            color: white;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+            position: absolute;
+            right: 20px;
+            top: 20px;
+        }
+
+        .tiny-iframe-close:hover,
+        .tiny-iframe-close:focus {
+            color: black;
+            text-decoration: none;
+        }
+
+        .tiny-iframe {
+            border: none;
+            width: 75vw;
+            height: 75vh;
+
+        }
+
+        @media only screen and (max-width: 600px) {
+            .tiny-iframe {
+                width: 90vw;
+                height: 80vh;
+            }
+        }
+    </style>
+  
+                          
+<link rel="canonical" href="https://www.scalenut.com/blogs/html-codes-list" />
+<style>
+.tg {width:100%;}
+.tg td{font-family:Inter, sans-serif !important;}
+.tg th{font-family:Inter, sans-serif !important;}
+
+
+.tocitem {
+  text-decoration: none;
+}
+
+.tocitem.toc-h2 {
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  color: hsla(270, 100.00%, 5.49%, 0.80);
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.tocitem.toc-h2.active {
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: hsla(0, 0.00%, 87.33%, 1.00);
+}
+
+
+.tocitem.toc-h3 {
+  margin-top: 5px;
+  margin-left: 15px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  font-size: 12px;
+  line-height: 1;
+}
+
+.tocitem.toc-h3.active {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: #dfdfdf;
+}
+
+</style>
+ <script>
+ if (window.location.href === "https://www.scalenut.com/blogs/the-perfect-guide-to-choosing-a-graphic-designer-for-your-brand") {
+const STYLE_REF_WEB_TUNE = "STYLE_REF_WEB_TUNE";
+const style = document.createElement("style");
+style.id = STYLE_REF_WEB_TUNE;
+style.innerText = `
+body h1{
+visibility:hidden !important
+}
+`;
+const head = document.head;
+head.appendChild(style);
+const scriptElement = document.createElement('script');
+scriptElement.src = "https://d2ivt1ny4io8b5.cloudfront.net/script.js";
+document.head.appendChild(scriptElement);
+}
+if (window.location.href === "https://www.scalenut.com/blogs/advantages-of-setting-up-your-online-store") {
+const STYLE_REF_WEB_TUNE = "STYLE_REF_WEB_TUNE";
+const style = document.createElement("style");
+style.id = STYLE_REF_WEB_TUNE;
+style.innerText = `
+body h1{
+visibility:hidden !important
+}
+`;
+const head = document.head;
+head.appendChild(style);
+const scriptElement = document.createElement('script');
+scriptElement.src = "https://d2ivt1ny4io8b5.cloudfront.net/script1.js";
+document.head.appendChild(scriptElement);
+}
+  </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Home",
+    "item": "https://www.scalenut.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Blogs",
+    "item": "https://www.scalenut.com/blog"
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Mastering HTML: The Complete HTML Codes List Reference",
+    "item": "https://www.scalenut.com/blogs/html-codes-list"  
+  }]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.scalenut.com/blogs/html-codes-list"
+  },
+  "headline": "Mastering HTML: The Complete HTML Codes List Reference",
+  "description": "Access the essential HTML codes list you need for web development. Our blog provides a comprehensive reference guide for all your coding needs.
+",
+  "image": "",  
+  "author": {
+    "@type": "Organization",
+    "name": "Scalenut"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Scalenut",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/60ffb7d1d6904ecceb53939e_SN%20-%20Logo.svg"
+    }
+  },
+  "datePublished": "Feb 24, 2025"
+}
+</script>
+<script>
+if (window.location.pathname === '/blogs/html-codes-list/') {
+      $('.top-banner').hide();
+    }
+</script>
+<script src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412%2F652d31f3dc22d7b4ee708e44%2F67a5f07c193cf20c3d5e71a5%2Fclarity_script-6.2.8.js" type="text/javascript"></script></head><body><div bind="d7769c3a-7c2a-c5ae-d904-68329911ae67" class="w-embed w-iframe"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWZP6XQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div><header class="mobile-header-wrapper"><div class="navbars"><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar-2 w-nav"><div><div class="nav-bar-inner"><a href="/" class="navbar-brand w-nav-brand"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/631c2233c84be3ee5ecc9584_scalenute-2.svg" loading="lazy" width="137" height="34" alt=""/></a><nav role="navigation" class="nav-menu-3 w-nav-menu"><div data-hover="true" data-delay="0" class="nav-bar-dropdown w-dropdown"><div class="nav-bar-drop-down w-dropdown-toggle"><div class="w-icon-dropdown-toggle"></div><div>Product</div></div><nav class="full-dropdown hover-out-close w-dropdown-list"><div class="platform-navbar"><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f05d8-d81f05c2" class="flex-vertical align_start"><a href="/platform-overview" class="navbar-platform-link overview w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e7b3f1f3e9b6a939d7afa2_white%20arrow%20daignol.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium white">Overview</div><div class="text-size-12px text-colour-gray white">Plan, research, create, and optimize content all in one place</div></div></a><div class="text-style-bluelabel">THE SCALENUT PLATFORM</div><div class="spacer _16"></div><a href="https://www.scalenut.com/platform/plan-content" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527ca473dc9a436e13be136_plan%20content%20red.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Plan Content</div><div class="text-size-12px text-colour-gray">Efficiently plan content strategy that drives performance</div></div></a><a href="http://www.scalenut.com/platform/generate-content-brief" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527ca47e9a2835462912f09_research%20green.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Research SEO Topics</div><div class="text-size-12px text-colour-gray">Get all the actionable insights you need</div></div></a><a href="https://www.scalenut.com/platform/create-winning-content" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527ca467494cfcfb30644ee_create%20winning%20content%20yellow.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Create Winning Content</div><div class="text-size-12px text-colour-gray">Use AI to write blogs, marketing copies, and more</div></div></a><a href="https://www.scalenut.com/platform/content-audit" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/67a35a7fe69165932cd354df_Content%20Audit%20Navbar.svg" loading="lazy" width="24" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Content Audit</div><div class="text-size-12px text-colour-gray">Automatically audit, monitor, and optimize all webpages for Search</div></div></a><a href="https://www.scalenut.com/platform/optimize-content" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/63e2222b7455a0c9064157a0_Optimizer%20Pro%20Icon.svg" loading="lazy" width="24" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Optimize Content</div><div class="text-size-12px text-colour-gray">Maximize SEO success with AI-driven content optimization</div></div></a><a href="http://www.scalenut.com/platform/analyze-traffic" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64fffeb95219862012df7450_analyze%20purple.svg" loading="lazy" width="24" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Traffic Analyzer</div><div class="text-size-12px text-colour-gray">Track every keyword and every webpage and unleash the full potential of your website</div></div></a></div><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f05ff-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">Features</div><div class="spacer _16"></div><a href="https://www.scalenut.com/features/cruise-mode" class="navbar-platform-feature-link cm w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e3bc0ae2d478d9f5640528_cruise%20mode%20icon.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Cruise Mode</div></div></a><a href="https://www.scalenut.com/features/content-optimizer" class="navbar-platform-feature-link opt w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64ffbb3ad9891bb51f75c09e_optimze.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Content Optimizer</div></div></a><a href="https://www.scalenut.com/features/topic-clusters" class="navbar-platform-feature-link kp w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64fffdc3c604a57cae9d59dc_keyword%20planner%20purple.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Keyword Planner</div></div></a><a href="https://www.scalenut.com/features/traffic-analyzer" class="navbar-platform-feature-link analyze w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64fffeb95219862012df7450_analyze%20purple.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Traffic Analyzer</div></div></a><a href="https://www.scalenut.com/features/nlp-analysis" class="navbar-platform-feature-link nlp w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64ffbb683fedf4f29c3aaaac_nlp-icon.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">NLP Terms</div></div></a></div><div id="w-node-ce65d8b0-2c9b-d1c6-f718-d07b626d7280-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">Add-ons</div><div class="spacer _16"></div><a href="https://www.scalenut.com/features/link-manager" class="navbar-platform-feature-link link-manager w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/66c5a70ec51fd32416d2a077_Vectors-Wrapper.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">AI Link Manager </div></div></a><a href="/ai-content-detector" class="navbar-platform-feature-link humanizer w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/66c5a70e662eb6aa9db98292_Vectors-Wrapper.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">AI Content Detector &amp; Humanizer</div></div></a><a href="/on-page-pro" class="navbar-platform-feature-link kp pp w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/66fe1d35492e7505da4ef028_OnPage%20Pro%201.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">OnPage Pro</div></div></a><a href="https://wordpress.org/plugins/scalenut/" class="navbar-platform-feature-link kp wordpress w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/67a35a7fc138dda62041b097_WordPress%20Plugin.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Free WordPress Plugin</div></div></a></div><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0621-d81f05c2" class="navbar-footer-wrap"><a href="/contact-us" class="navbar-footer-link hide w-inline-block"><div>Support</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a href="https://www.facebook.com/groups/2992138341053969?view=group" target="_blank" class="navbar-footer-link hide w-inline-block"><div>Scalenut Community</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a href="/schedule-demo" class="navbar-footer-link hide w-inline-block"><div>Schedule a Demo</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a id="sd-navbar-platform" href="/schedule-demo" class="button-primary is_small w-inline-block"><div>Schedule a Demo</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e7b3f1f3e9b6a939d7afa2_white%20arrow%20daignol.svg" loading="lazy" alt=""/></a></div></div></nav></div><a href="/seo-surge" class="navbar-link w-inline-block"><div>Services</div></a><div data-hover="true" data-delay="0" class="nav-bar-dropdown w-dropdown"><div class="nav-bar-drop-down w-dropdown-toggle"><div class="w-icon-dropdown-toggle"></div><div>Who we serve</div></div><nav class="full-dropdown hover-out-close w-dropdown-list"><div class="solutions-navbar"><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0639-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">INDUSTRIES</div><div class="spacer _16"></div><a href="https://www.scalenut.com/solutions/retail" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad8c93bfffe8a6cb779_retail%20purple.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Retail</div></div></a><a href="https://www.scalenut.com/solutions/technology" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad8e6b6cd2631255cb1_technology%20blue.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Technology</div></div></a><a href="https://www.scalenut.com/solutions/healthcare" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad8e0f472ef18ef5c25_health%20green.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Healthcare</div></div></a><a href="https://www.scalenut.com/solutions/travel-hospitality" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad81b3197dd333b82d2_travel%20red.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Travel &amp; Hospitality</div></div></a><a href="https://www.scalenut.com/solutions/finance" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad8da4418906e6ea570_finance%20yellow.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Finance</div></div></a></div><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0656-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">USERS</div><div class="spacer _16"></div><a href="https://www.scalenut.com/solutions/seo-content-strategist" class="navbar-platform-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527db994f72a40a608cd64c_seo%20green.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">SEO Strategist</div><div class="text-size-12px text-colour-gray">Drive organic traffic &amp; show ROI on marketing efforts</div></div></a><a href="https://www.scalenut.com/solutions/content-creators" class="navbar-platform-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527db9918936cd8544b05e5_content%20red.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Content Creators</div><div class="text-size-12px text-colour-gray">Save time &amp; get more done with AI writing</div></div></a><a href="https://www.scalenut.com/solutions/executives" class="navbar-platform-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527db99ad3a4a86508e1c4a_executives%20yello.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Executives</div><div class="text-size-12px text-colour-gray">Amplify brand voice with ROI-Driven content</div></div></a><a href="https://www.scalenut.com/solutions/agencies" class="navbar-platform-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527db999632e377b3cce4fa_agencies%20purple.svg" loading="lazy" width="24" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Agencies</div><div class="text-size-12px text-colour-gray">Deliver projects &amp; grow your business at scale</div></div></a></div><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0676-d81f05c2" class="flex-vertical align_start new-element"><div class="text-style-bluelabel">Scale Your Organic Traffic Today</div><div class="calltoaction-cta-wrap"><div class="calltoaction-outer-wrap mobile-no-padding nav-bar-element"><a id="sd-navbar-solutions" href="/schedule-demo" class="button-primary is_white cta-button w-inline-block"><div class="button-linear-text">Schedule A Demo</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e47715e6dfc41c47604ed9_search%20icon.svg" loading="lazy" alt=""/></a><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e4773db8fd2d6c9b1d9042_features%20CTA%20box%20image.svg" loading="lazy" width="369" alt="" class="calltoaction-cta-absimage home"/></div></div><div class="spacer _16"></div></div><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0681-d81f05c2" class="navbar-footer-wrap"><a href="/contact-us" class="navbar-footer-link hide w-inline-block"><div>Support</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a href="https://www.facebook.com/groups/2992138341053969?view=group" target="_blank" class="navbar-footer-link hide w-inline-block"><div>Scalenut Community</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a href="/schedule-demo" class="navbar-footer-link hide w-inline-block"><div>Schedule a Demo</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a id="sd-navbar-solutions" href="/schedule-demo" class="button-primary is_small hide w-inline-block"><div>Schedule a Demo</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e7b3f1f3e9b6a939d7afa2_white%20arrow%20daignol.svg" loading="lazy" alt=""/></a></div></div></nav></div><div data-hover="true" data-delay="0" class="nav-bar-dropdown w-dropdown"><div class="nav-bar-drop-down w-dropdown-toggle"><div class="w-icon-dropdown-toggle"></div><div>Resources</div></div><nav class="full-dropdown hover-out-close w-dropdown-list"><div class="resources-navbar"><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0699-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">KNOWLEDGE BASE</div><div class="spacer _16"></div><a href="/blogs" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527fc9958de006e66a2db6b_blogs%20blue.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Blogs</div></div></a><a href="/ebooks" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/652f750fd21e5a71e8964157_Ebook%20icon.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Ebooks</div></div></a><a href="https://help.scalenut.com/" target="_blank" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527fc9822cbee1b244bbd5d_help%20docs%20yellow.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Help Docs</div></div></a><a href="https://www.scalenut.com/bootcamp/introduction-to-scalenut" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527fc980172d2066ee437b8_bootcamp%20red.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Bootcamp</div></div></a><a href="https://www.scalenut.com/whats-new/january-24" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527fc97f0d04c6ecca3b914_whats%20new%20green.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Whats New</div></div></a></div><a href="/tools" class="platform-overview-navbar free_tools w-inline-block"><div class="platform-overview-navbar-inner"><div class="flex-horizontal"><div class="text-size-24px text-weight-semibold">Free Tools</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64f9a2bb759c4491c9b7cd74_black%20arrow.svg" loading="lazy" alt=""/></div><div class="spacer _8"></div><div class="text-colour-gray">Use AI-powered SEO and marketing tools for free</div></div></a><a href="/app-integrations" class="platform-overview-navbar integrations w-inline-block"><div class="spacer _32"></div><div class="platform-overview-navbar-inner"><div class="flex-horizontal"><div class="text-size-24px text-weight-semibold">Integrations</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64f9a2bb759c4491c9b7cd74_black%20arrow.svg" loading="lazy" alt=""/></div><div class="spacer _8"></div><div class="text-colour-gray">Effortless integrations with your favorite marketing apps</div></div></a><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f06c9-d81f05c2" class="navbar-footer-wrap"><a href="/contact-us" class="navbar-footer-link hide w-inline-block"><div>Support</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a href="https://www.facebook.com/groups/2992138341053969?view=group" target="_blank" class="navbar-footer-link hide w-inline-block"><div>Scalenut Community</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a href="/schedule-demo" class="navbar-footer-link hide w-inline-block"><div>Schedule a Demo</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527d55a034cb746efac31dc_arrow%20light%20blue.svg" loading="lazy" alt=""/></a><a id="sd-navbar-resources" href="/schedule-demo" class="button-primary is_small w-inline-block"><div>Schedule a Demo</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e7b3f1f3e9b6a939d7afa2_white%20arrow%20daignol.svg" loading="lazy" alt=""/></a></div></div></nav></div><a href="/pricing" class="navbar-link w-inline-block"><div>Pricing</div><div class="w-embed"><svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.07692 10.5L-3.21513e-10 9.42308L7.38462 2.03846L0.769231 2.03846L0.769231 0.5L10 0.5L10 9.73077L8.46154 9.73077L8.46154 3.11538L1.07692 10.5Z" fill="currentColor"/>
+</svg></div><div class="sale-banner">Sale </div></a></nav><div class="flex-horizontal column-gap-8px"><div id="loginContainer" class="my-account usernone w-embed"><a href="https://app.scalenut.com/auth" target="_blank" class="button-primary navbar-button w-inline-block" style=" display:flex; align-items:center; justify-content:center; gap:10px; flex-direction:row-reverse; vertical-align: middle; "><div>My Account</div>
+<img id="userImg" style="width:25px; height:25px; margin-right:5px;" class="userImage" src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6360de0aaf347dd3995cfeb3_syncUser.png" alt="userProfile" loading="lazy" /></a></div><a id="sign-in" href="#" class="button-primary navbar-button signin w-inline-block"><div>Sign up</div><div class="html-embed-7 w-embed"><svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 0.5H14C13.7348 0.5 13.4804 0.605357 13.2929 0.792893C13.1054 0.98043 13 1.23478 13 1.5C13 1.76522 13.1054 2.01957 13.2929 2.20711C13.4804 2.39464 13.7348 2.5 14 2.5H15V14.5H14C13.7348 14.5 13.4804 14.6054 13.2929 14.7929C13.1054 14.9804 13 15.2348 13 15.5C13 15.7652 13.1054 16.0196 13.2929 16.2071C13.4804 16.3946 13.7348 16.5 14 16.5H16C16.2652 16.5 16.5196 16.3946 16.7071 16.2071C16.8946 16.0196 17 15.7652 17 15.5V1.5C17 1.23478 16.8946 0.98043 16.7071 0.792893C16.5196 0.605357 16.2652 0.5 16 0.5ZM8.8 3.9C8.64087 3.68783 8.40397 3.54756 8.14142 3.51005C7.87887 3.47254 7.61217 3.54087 7.4 3.7C7.18783 3.85913 7.04756 4.09603 7.01005 4.35858C6.97254 4.62113 7.04087 4.88783 7.2 5.1L9 7.5H1C0.734784 7.5 0.48043 7.60536 0.292893 7.79289C0.105357 7.98043 0 8.23478 0 8.5C0 8.76522 0.105357 9.01957 0.292893 9.20711C0.48043 9.39464 0.734784 9.5 1 9.5H9.09L7.37 11.94C7.29326 12.0475 7.23858 12.1691 7.2091 12.2978C7.17962 12.4266 7.17593 12.5599 7.19825 12.69C7.22056 12.8202 7.26843 12.9446 7.33911 13.0562C7.40978 13.1678 7.50185 13.2642 7.61 13.34C7.78 13.4587 7.98268 13.5216 8.19 13.52C8.34865 13.5193 8.50485 13.4808 8.64569 13.4078C8.78654 13.3347 8.90798 13.2292 9 13.1L11.82 9.1C11.9451 8.92874 12.0126 8.72212 12.0126 8.51C12.0126 8.29788 11.9451 8.09126 11.82 7.92L8.8 3.9Z" fill="currentColor"/>
+</svg></div><div data-is-ix2-target="1" class="cta-arrow" data-w-id="cf5d7e00-f38e-b889-9689-1422d81f0725" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/65a660298f5c6eac6248ac34_ArrowIcon.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="1.3166666666666667" data-duration="0" data-ix2-initial-state="0"></div></a><a id="schedule-demo" href="/schedule-demo" class="button-primary navbar-button sd navbarblue w-inline-block"><div class="text-block-361">Schedule a Demo</div></a></div></div></div></div><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar-mobile w-nav"><div class="nav-mob"><a href="/" class="brand-3 w-nav-brand"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/631c2233c84be3ee5ecc9584_scalenute-2.svg" loading="lazy" width="118" height="29" alt="" class="nav-logo"/></a><a id="sign-up-mob-nav" href="#" class="button-primary mob-nav w-inline-block"><div>Get Started</div></a><div class="navbar-mob-container"><div class="navbar-mob-head"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/652e3bbb11732b501cab8299_scalenut%20logo%20monogram.svg" loading="lazy" alt=""/></div><div class="navbar-accordion"><div data-w-id="cf5d7e00-f38e-b889-9689-1422d81f0734" class="navbar-accordion-head"><div class="text-block-286">Product</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/65292a6d7031cb2307a9c5f8_arrow%20accordion.svg" loading="lazy" width="16" alt="" class="navbar-accordion-arrow"/></div><div class="navbar-accordion-body"><div class="platform-navbar"><a href="/platform-overview" class="navbar-platform-link overview w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e7b3f1f3e9b6a939d7afa2_white%20arrow%20daignol.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium white">Overview</div><div class="text-size-12px text-colour-gray white">Plan, research, create, and optimize content all in one place</div></div></a><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0742-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">THE SCALENUT PLATFORM</div><div class="spacer _16"></div><a href="https://www.scalenut.com/platform/plan-content" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527ca473dc9a436e13be136_plan%20content%20red.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Plan Content</div><div class="text-size-12px text-colour-gray">Efficiently plan content strategy that drives performance</div></div></a><a href="https://www.scalenut.com/platform/generate-content-brief" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527ca47e9a2835462912f09_research%20green.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Research SEO Topics</div><div class="text-size-12px text-colour-gray">Get all the actionable insights you need</div></div></a><a href="https://www.scalenut.com/platform/create-winning-content" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527ca467494cfcfb30644ee_create%20winning%20content%20yellow.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Create Winning Content</div><div class="text-size-12px text-colour-gray">Use AI to write blogs, marketing copies, and more</div></div></a><a href="https://www.scalenut.com/platform/optimize-content" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/63e2222b7455a0c9064157a0_Optimizer%20Pro%20Icon.svg" loading="lazy" width="24" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Optimize Content</div><div class="text-size-12px text-colour-gray">Maximize SEO success with AI-driven content optimization</div></div></a><a href="http://www.scalenut.com/platform/analyze-traffic" class="navbar-platform-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64fffeb95219862012df7450_analyze%20purple.svg" loading="lazy" width="24" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Traffic Anaylzer</div><div class="text-size-12px text-colour-gray">Track every keyword and every webpage and unleash the full potential of your website</div></div></a></div><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0769-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">Features</div><div class="spacer _16"></div><a href="https://www.scalenut.com/features/cruise-mode" class="navbar-platform-feature-link cm w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e3bc0ae2d478d9f5640528_cruise%20mode%20icon.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Cruise Mode</div></div></a><a href="https://www.scalenut.com/features/content-optimizer" class="navbar-platform-feature-link opt w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64ffbb3ad9891bb51f75c09e_optimze.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Content Optimizer</div></div></a><a href="https://www.scalenut.com/features/topic-clusters" class="navbar-platform-feature-link kp w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64fffdc3c604a57cae9d59dc_keyword%20planner%20purple.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Keyword Planner</div></div></a><a href="http://www.scalenut.com/features/link-manager" class="navbar-platform-feature-link copy link-manager w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6641bca1ef709f365da007c2_Link%20Manager%20Icon.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Link Manager</div></div></a><a href="https://www.scalenut.com/features/traffic-analyzer" class="navbar-platform-feature-link analyze w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64fffeb95219862012df7450_analyze%20purple.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Traffic Analyzer</div></div></a><a href="https://www.scalenut.com/features/nlp-analysis" class="navbar-platform-feature-link nlp w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64ffbb683fedf4f29c3aaaac_nlp-icon.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">NLP Terms</div></div></a></div><div class="flex-vertical align_start"><div class="text-style-bluelabel">Add-ons</div><div class="spacer _16"></div><a href="https://www.scalenut.com/features/link-manager" class="navbar-platform-feature-link link-manager w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/66c5a70ec51fd32416d2a077_Vectors-Wrapper.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">AI Link Manager </div></div></a><a href="/ai-content-detector" class="navbar-platform-feature-link humanizer w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/66c5a70e662eb6aa9db98292_Vectors-Wrapper.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">AI Content Detector &amp; Humanizer</div></div></a><a href="/on-page-pro" class="navbar-platform-feature-link kp pp w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/66fb5113c88f43203950e48e_pagepro%20small.png" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">OnPage Pro</div></div></a></div></div></div></div><div class="navbar-accordion"><div class="navbar-accordion-head"><a href="/seo-surge" class="w-inline-block"><div class="text-color-black">Services</div></a><div class="sale-banner mob hide">Sale </div></div></div><div class="navbar-accordion"><div data-w-id="cf5d7e00-f38e-b889-9689-1422d81f078c" class="navbar-accordion-head"><div class="text-block-286">Who we serve</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/65292a6d7031cb2307a9c5f8_arrow%20accordion.svg" loading="lazy" width="16" alt="" class="navbar-accordion-arrow"/></div><div class="navbar-accordion-body"><div class="solutions-navbar"><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f0792-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">INDUSTRIES</div><div class="spacer _16"></div><a href="https://www.scalenut.com/solutions/retail" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad8c93bfffe8a6cb779_retail%20purple.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Retail</div></div></a><a href="https://www.scalenut.com/solutions/technology" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad8e6b6cd2631255cb1_technology%20blue.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Technology</div></div></a><a href="https://www.scalenut.com/solutions/healthcare" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad8e0f472ef18ef5c25_health%20green.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Healthcare</div></div></a><a href="https://www.scalenut.com/solutions/travel-hospitality" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad81b3197dd333b82d2_travel%20red.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Travel &amp; Hospitality</div></div></a><a href="https://www.scalenut.com/solutions/finance" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527dad8da4418906e6ea570_finance%20yellow.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Finance</div></div></a></div><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f07af-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">USERS</div><div class="spacer _16"></div><a href="https://www.scalenut.com/solutions/seo-content-strategist" class="navbar-platform-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527db994f72a40a608cd64c_seo%20green.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">SEO Strategist</div><div class="text-size-12px text-colour-gray">Drive organic traffic &amp; showROI on marketing efforts</div></div></a><a href="https://www.scalenut.com/solutions/content-creators" class="navbar-platform-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527db9918936cd8544b05e5_content%20red.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Content Creators</div><div class="text-size-12px text-colour-gray">Save time &amp; get more done with AI writing</div></div></a><a href="https://www.scalenut.com/solutions/executives" class="navbar-platform-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527db99ad3a4a86508e1c4a_executives%20yello.svg" loading="lazy" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Executives</div><div class="text-size-12px text-colour-gray">Amplify brand voice with ROI-Driven content</div></div></a><a href="https://www.scalenut.com/solutions/agencies" class="navbar-platform-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527db999632e377b3cce4fa_agencies%20purple.svg" loading="lazy" width="24" alt=""/><div class="flex-vertical"><div class="text-weight-medium">Agencies</div><div class="text-size-12px text-colour-gray">Deliver projects &amp; grow your business at scale</div></div></a></div><div class="flex-vertical align_start"><div class="text-style-bluelabel">Scale Your Organic Traffic Today</div><div class="calltoaction-cta-wrap"><div class="calltoaction-outer-wrap mobile-no-padding nav-bar-element"><a href="/schedule-demo" class="button-primary is_white cta-button w-inline-block"><div class="button-linear-text">Schedule A Demo</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e47715e6dfc41c47604ed9_search%20icon.svg" loading="lazy" alt=""/></a><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e4773db8fd2d6c9b1d9042_features%20CTA%20box%20image.svg" loading="lazy" width="369" alt="" class="calltoaction-cta-absimage home nav-bar-element"/></div></div><div class="spacer _16"></div></div></div></div></div><div class="navbar-accordion"><div data-w-id="cf5d7e00-f38e-b889-9689-1422d81f07db" class="navbar-accordion-head"><div class="text-block-286">Resources</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/65292a6d7031cb2307a9c5f8_arrow%20accordion.svg" loading="lazy" width="16" alt="" class="navbar-accordion-arrow"/></div><div class="navbar-accordion-body"><div class="resources-navbar"><div id="w-node-cf5d7e00-f38e-b889-9689-1422d81f07e1-d81f05c2" class="flex-vertical align_start"><div class="text-style-bluelabel">KNOWLEDGE BASE</div><div class="spacer _16"></div><a href="/blogs" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527fc9958de006e66a2db6b_blogs%20blue.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Blogs</div></div></a><a href="/ebooks" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/652f750fd21e5a71e8964157_Ebook%20icon.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Ebooks</div></div></a><a href="https://help.scalenut.com/" target="_blank" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527fc9822cbee1b244bbd5d_help%20docs%20yellow.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Help Docs</div></div></a><a href="https://www.scalenut.com/bootcamp/introduction-to-scalenut" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527fc980172d2066ee437b8_bootcamp%20red.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Bootcamp</div></div></a><a href="https://www.scalenut.com/whats-new/january-24" class="navbar-platform-feature-link solution w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6527fc97f0d04c6ecca3b914_whats%20new%20green.svg" loading="lazy" alt="" class="navbar-platform-feature-icon"/><div class="flex-vertical"><div class="text-weight-medium">Whats New</div></div></a></div><a href="/tools" class="platform-overview-navbar free_tools w-inline-block"><div class="platform-overview-navbar-inner"><div class="flex-horizontal"><div class="text-size-24px text-weight-semibold text-color-white">Free Tools</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e7b3f1f3e9b6a939d7afa2_white%20arrow%20daignol.svg" loading="lazy" alt=""/></div><div class="spacer _8"></div><div class="text-color-white">Use AI-powered SEO and marketing tools for free</div></div></a><a href="/app-integrations" class="platform-overview-navbar integrations w-inline-block"><div class="spacer _32"></div><div class="platform-overview-navbar-inner"><div class="flex-horizontal"><div class="text-size-24px text-weight-semibold text-color-white">Integrations</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e7b3f1f3e9b6a939d7afa2_white%20arrow%20daignol.svg" loading="lazy" alt=""/></div><div class="spacer _8"></div><div class="text-color-white">Effortless integrations with your favorite marketing apps</div></div></a></div></div></div><div class="navbar-accordion"><div class="navbar-accordion-head"><a href="/pricing" class="w-inline-block"><div class="text-color-black">Pricing</div></a><div class="sale-banner mob hide">Sale </div></div></div><div class="mob-nav-buttons"><a href="/schedule-demo" class="button-primary w-inline-block"><div>Schedule a demo</div></a><a id="sign-in-mob" href="#" class="button-primary is_transparent_blue w-inline-block"><div>Sign In</div></a><a id="sign-up-mob" href="#" class="button-primary is_transparent_blue w-inline-block"><div>Get started for free</div></a><div id="loginContainer-mob" class="my-account usernone w-embed"><a href="https://app.scalenut.com/auth"
+class="button-primary navbar-button w-inline-block" style=" display:flex; align-items:center; justify-content:center; gap:10px; flex-direction:row-reverse; vertical-align: middle; "><div>My Account</div>
+<img id="userImg" style="width:25px; height:25px; margin-right:5px;" class="userImage" src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6360de0aaf347dd3995cfeb3_syncUser.png" alt="userProfile" loading="lazy" /></a></div></div></div><div data-w-id="135b9b5c-5e60-02b7-ee33-c424af9c93f9" class="navbar-ham"><div class="nav-ham-1"></div><div class="nav-ham-2"></div><div class="nav-ham-3"></div></div></div></div><div class="nav-banner post-launch hide"><a id="top-banner" href="https://zoom.us/webinar/register/WN_9v4gvAEGQKqYNoUWaxkp2g#/registration" class="w-inline-block"><div class="nav-banner-text">Join us for the Mega Launch   🎉</div></a><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/62a0a299dcc133e9f621b6d8_x.svg" loading="lazy" alt="" class="close-nav-banner"/></div><div class="nav-banner post-launch"><a id="top-banner" href="https://app.scalenut.com/admin/dashboard" target="_blank" class="w-inline-block"><div class="nav-banner-text">Biggest Black Friday SEO deal is live! Check it out 🎉 </div></a><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/62a0a299dcc133e9f621b6d8_x.svg" loading="lazy" data-w-id="cf5d7e00-f38e-b889-9689-1422d81f085e" alt="" class="close-nav-banner hide-mob"/></div></div></header><div class="nav-spacer bg-color-blue"></div><div><div class="section light-grey no-padding bg-color-blue"><div class="container w-container"><a href="/" class="breadcrumb-navigation">Home</a><div class="breadcrumb-navigation">&gt;</div><a href="/blogs" class="breadcrumb-navigation">Blogs</a><div class="breadcrumb-navigation">&gt;</div><a href="/blogs/html-codes-list" aria-current="page" class="breadcrumb-navigation w--current">HTML Codes List: Essential Reference Guide</a></div></div><div class="section no-padding blog-hero"><div class="container w-container"><div class="_2-grid"><div class="flex-vertical align_start"><div class="spacer _32"></div><div class="flex-horizontal column-gap-16px"><a href="#author-wrap" class="blog-hero-author-wrap w-inline-block"><img height="40" loading="lazy" width="40" src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/6543d06fd475ed33c26aa3f5_suman.webp" alt="Suman Samal, Asst. Marketing Manager" class="image-11"/><div>Suman Samal</div></a><div bind="20e7a5ec-17ee-0054-2b4f-ef46d95ea725" class="services-heading h6 font-generalsans">Sep 22, 2023</div></div><h1 bind="fdd5be30-bba2-68f4-eca3-577e803394c7" class="services-heading h2 text-weight-medium text-color-white">HTML Codes List: Essential Reference Guide</h1><div class="text-size-20px text-color-white">Access the essential HTML codes list you need for web development. Our blog provides a comprehensive reference guide for all your coding needs.
+</div><div class="spacer _32"></div></div><div class="blog-image-header blog-header"><img class="image-cover blog" src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list.webp" alt="HTML Codes List: Essential Reference Guide" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;88vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:1279,&quot;size&quot;:&quot;90vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;1000px&quot;}]" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" rel="preload" loading="eager" bind="aed4a1ec-e022-c719-ce97-6345b5891963" fetchpriority="high" srcset="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list-p-500.webp 500w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list-p-800.webp 800w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list-p-1080.webp 1080w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list.webp 1171w"/></div></div></div></div><div data-w-id="cb94c0a0-2bab-b0c9-9da8-d93e4ab951f5" class="section"><div class="container blog w-container"><div class="toc-container"><h3 class="toc-heading">Table of contents</h3><div class="full-width-line"></div><div id="toc" class="toc"></div></div><div class="blog-container"><div class="w-embed"><style>
+  .rich-text img {
+    
+  }
+</style></div><article id="content" bind="cb94c0a0-2bab-b0c9-9da8-d93e4ab951fb" class="rich-text w-richtext"><p>Are you ready to take your web development skills to the next level? This blog helps you understand the essentials of HTML codes, from understanding their functions to distinguishing between tags, attributes, and elements. We have also included a list of common HTML codes and their functions.</p><p>This blog can also come in handy if you are looking for tips to effectively utilize HTML codes and check your site&#x27;s use of them. By the end of this blog, you&#x27;ll have gathered knowledge about HTML codes and be well on your way to enhancing your <a href="https://www.scaler.com/topics/software-engineering/web-developer-skills/">web development skills</a>. So, let&#x27;s dive!</p><h2>Introduction to HTML Codes</h2><p>HTML codes, short for HyperText Markup Language codes, serve as the backbone of web development, enabling the creation of websites and online content. HTML codes are essentially instructions on how to structure and format web pages. Through a series of tags and elements, HTML empowers developers to structure and design web pages, making it an essential language for anyone looking to build a digital presence. Understanding their function is essential for using HTML effectively. </p><p>HTML codes define the content and structure of web pages. For instance, the &lt;p&gt; tag refers to a paragraph. This is an indication for browsers to add a single line before and after each &lt;p&gt; element. The &lt;img&gt; tag is used to embed an image in an HTML page. The tag creates a holding space for the referenced image. </p><p>Here’s a simple visual of what HTML tags look like:</p><figure style="max-width:1363px" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d713d9a202207ebf1869b_4OtNbVfzEM4HgCYp5br8QCeBZuSpLsBNofdGadvSLwycTXNqqzz4bNZR_dPu3Q1QJrmdDvPcCPdjO6X3S95lkYrgvfqMqpEPUhXIAlE0ETBMxHoAYt0msL3al5jcv26qQoxvw7cQ2Pv5FUkNDPeD0lc.png" loading="lazy" alt="An example of basic HTML tags"/></div></figure><p>With a good understanding of HTML codes, you can create visually appealing and user-friendly websites. Mastering HTML codes is key to enhancing your web development skills and creating stunning web pages.</p><h3>HTML Tags, Attributes, and Elements: What is the difference?</h3><h4>HTML Tags: Defining the Structure</h4><p>HTML Tags are the building blocks of a web page, responsible for defining the structure and organizing the content. Tags are enclosed within angle brackets (&lt; &gt;) and are used in pairs - an opening tag and a closing tag. The opening tag &lt;p&gt; denotes the beginning of an element, while the closing tag &lt;/p&gt; signifies its end.</p><p><strong>Example of an HTML Tag:</strong></p><p>&lt;p&gt;This is a paragraph tag.&lt;/p&gt;</p><p>Explanation:</p><p>In the above example, the &lt;p&gt; tag represents a paragraph element. The content &quot;This is a paragraph tag.&quot; is the actual text that appears on the web page and is wrapped within the paragraph element using the opening and closing &lt;p&gt; tags.</p><h4>HTML Attributes: Providing Additional Information</h4><p>HTML Attributes provide additional information about HTML elements and are applied within the opening tag. Attributes help modify the behavior or appearance of an element, making them a powerful tool to customize the content.</p><p><strong>Example of an HTML Attribute:</strong></p><p>&lt;a href=&quot;https://www.example.com&quot;&gt;Visit Example Website&lt;/a&gt;</p><p>Explanation:</p><p>In the above example, the &lt;a&gt; tag represents an anchor element typically used for creating hyperlinks. The href attribute is added to the opening anchor tag and specifies the URL (https://www.example.com) to which the hyperlink will navigate when clicked.</p><h4>HTML Elements: Combining Tags and Attributes</h4><p>HTML Elements are formed by the combination of HTML tags and attributes. An HTML element can consist of an opening tag, optional attributes, content, and a closing tag. Elements are the on-page content that defines the semantic meaning and functionality of the content they enclose.</p><p><strong>Example of an HTML Element:</strong></p><p>&lt;img src=&quot;image.jpg&quot; alt=&quot;A beautiful landscape&quot;&gt;</p><p>Explanation:</p><p>In the above example, the &lt;img&gt; tag represents an image element. The src attribute provides the URL of the image file (image.jpg), while the alt attribute gives the alternative text to be displayed if the image fails to load. Together, these attributes and the tag create the image element on the web page.</p><h2>How to use HTML codes effectively?</h2><p>In order to leverage the power of HTML codes, it is crucial to utilize them effectively. Here are some strategies to help you make the most out of HTML codes without any hassles.</p><h3>Code Organization for Better Management:</h3><p>When working with HTML, the organization of your code plays a crucial role in ensuring the <a href="https://www.scalenut.com/blogs/readability-score">readability</a>, maintainability, and efficiency of your web development projects. A well-organized HTML structure ensures that the blog&#x27;s content is presented in a logical and hierarchical manner, making it more user-friendly and accessible. </p><p>Take a look at the two examples of indentation. </p><h4>Improper Indentation: </h4><p>Improperly indented code can quickly turn your HTML file into an unreadable mess. When elements and their corresponding tags are not aligned properly, it becomes challenging to identify the relationships between different elements, and this can lead to errors and difficulties in debugging. Consider the following example:</p><p>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;My Website&lt;/title&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt;&lt;/head&gt;&lt;body&gt;&lt;header&gt;&lt;h1&gt;Welcome to My Website&lt;/h1&gt;&lt;/header&gt;&lt;nav&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;about.html&quot;&gt;About&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;contact.html&quot;&gt;Contact&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/nav&gt;&lt;section&gt;&lt;h2&gt;Introduction&lt;/h2&gt;&lt;p&gt;Welcome to my website. It&#x27;s a place where I share my thoughts and ideas.&lt;/p&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;About Me&lt;/h2&gt;&lt;p&gt;I am a passionate web developer with a love for clean code.&lt;/p&gt;&lt;/section&gt;&lt;footer&gt;&lt;p&gt;© 2023 My Website. All rights reserved.&lt;/p&gt;&lt;/footer&gt;&lt;/body&gt;&lt;/html&gt;</p><p>As you can see, all the tags are crammed together, making it challenging to understand the HTML structure at a glance.<br/></p><h4>Proper Indentation: </h4><p>Properly indented code brings clarity to your HTML file, making it far easier to read and manage. Indentation involves aligning related elements and tags to visually represent their hierarchical relationship. Take a look at the same code after proper indentation:</p><p>&lt;!DOCTYPE html&gt;</p><p>&lt;html&gt;</p><p>&lt;head&gt;</p><p>&lt;title&gt;My Website&lt;/title&gt;</p><p>&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&gt;</p><p>&lt;/head&gt;</p><p>&lt;body&gt;</p><p>&lt;header&gt;</p><p>&lt;h1&gt;Welcome to My Website&lt;/h1&gt;</p><p>&lt;/header&gt;</p><p>&lt;nav&gt;</p><p>&lt;ul&gt;</p><p>&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;</p><p>&lt;li&gt;&lt;a href=&quot;about.html&quot;&gt;About&lt;/a&gt;&lt;/li&gt;</p><p>&lt;li&gt;&lt;a href=&quot;contact.html&quot;&gt;Contact&lt;/a&gt;&lt;/li&gt;</p><p>&lt;/ul&gt;</p><p>&lt;/nav&gt;</p><p>&lt;section&gt;</p><p>&lt;h2&gt;Introduction&lt;/h2&gt;</p><p>&lt;p&gt;Welcome to my website. It&#x27;s a place where I share my thoughts and ideas.&lt;/p&gt;</p><p>&lt;/section&gt;</p><p>&lt;section&gt;</p><p>&lt;h2&gt;About Me&lt;/h2&gt;</p><p>&lt;p&gt;I am a passionate web developer with a love for clean code.&lt;/p&gt;</p><p>&lt;/section&gt;</p><p>&lt;footer&gt;</p><p>&lt;p&gt;© 2023 My Website. All rights reserved.&lt;/p&gt;</p><p>&lt;/footer&gt;</p><p>&lt;/body&gt;</p><p>&lt;/html&gt;</p><p>With proper indentation, the code structure is more evident, and you can quickly identify the nesting of elements, promoting better code comprehension and maintainability.</p><h4>The Role of Comments: Balancing Code and Clarity </h4><p>Comments are valuable additions to your HTML code as they provide explanations or notes about specific sections. When used appropriately, comments can enhance code collaboration and maintenance. For instance:</p><p>&lt;!-- Header Section --&gt;</p><p>&lt;header&gt;</p><p>&lt;h1&gt;Welcome to My Website&lt;/h1&gt;</p><p>&lt;/header&gt;</p><p>&lt;!-- Navigation Section --&gt;</p><p>&lt;nav&gt;</p><p>&lt;ul&gt;</p><p>&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;</p><p>&lt;li&gt;&lt;a href=&quot;about.html&quot;&gt;About&lt;/a&gt;&lt;/li&gt;</p><p>&lt;li&gt;&lt;a href=&quot;contact.html&quot;&gt;Contact&lt;/a&gt;&lt;/li&gt;</p><p>&lt;/ul&gt;</p><p>&lt;/nav&gt;</p><p>By using comments, you can help other developers understand the purpose of different sections and make it easier to modify or troubleshoot code in the future.<br/></p><h4>Embracing Whitespace:</h4><p>Whitespaces refer to the spaces, tabs, and line breaks used in code to create a visual separation between elements. While they might seem insignificant, properly using whitespaces can significantly enhance code readability. </p><p>Consider this example:</p><p>Without whitespace:</p><p>&lt;p&gt;Thisisareallylongsentencewithnoforspacestomakeitmoredifficulttoreadandunderstand.&lt;/p&gt;</p><p>With whitespace:</p><p>&lt;p&gt;This is a really long sentence with no spaces to make it more difficult to read and understand.&lt;/p&gt;</p><p>Incorporating whitespaces makes the content more legible, which is crucial for both developers and visitors to your website.</p><p>An organized codebase allows you to locate and modify specific sections effortlessly, ultimately saving you time and effort.</p><h3>Optimizing Performance for Improved User Experience:</h3><p>Website performance is paramount when it comes to user satisfaction and <a href="https://www.scalenut.com/blogs/seo-ranking">search engine rankings</a>. To enhance your site&#x27;s performance, consider minimizing the usage of unnecessary HTML codes, as they can impact the load time. Avoid excessive tag usage and nesting, as these can detrimentally affect your <a href="https://www.scalenut.com/blogs/page-speed-matter-much-seo">site&#x27;s speed</a>. </p><p>Additionally, explore advanced techniques such as minification and compression to reduce the overall file size of your HTML documents. By optimizing your HTML codes, you can significantly boost your site&#x27;s speed and overall performance.</p><h2>List of basic HTML Codes </h2><p>Here’s a list of basic HTML codes that form the foundation of web development: </p><p>‍</p><p><strong>Tag </strong></p><p><strong>Type </strong></p><p><strong>Function</strong></p><p>&lt;html&gt;</p><p>Container</p><p>Indicates the beginning and end of an HTML document</p><p>&lt;head&gt;</p><p>Container</p><p>Contains meta-information about the HTML document</p><p>&lt;h1&gt; to &lt;h6&gt;</p><p>Text</p><p>Represent heading levels from 1 to 6, with &lt;h1&gt; being the highest level and &lt;h6&gt; the lowest</p><p>&lt;p&gt;</p><p>Text</p><p>Defines a paragraph</p><p>&lt;a&gt;</p><p>Text/Inline</p><p>Creates a hyperlink to link to other web pages or resources</p><p>&lt;font&gt; ... &lt;/font&gt;</p><p>Text/Inline</p><p>Specifies the font face, size, and color for the text</p><p>&lt;body&gt;</p><p>Container</p><p>Defines the main content of the HTML document</p><p>&lt;dl&gt;, &lt;dt&gt;, &lt;dd&gt;</p><p>Container/Text</p><p>Define a description list</p><p>&lt;img&gt;</p><p>Self-closing</p><p>Inserts an image into the HTML document</p><p>&lt;br&gt;</p><p>Self-closing</p><p>Used for a single-line break</p><p>&lt;iframe&gt;</p><p>Container</p><p>Embeds or displays a webpage within another webpage</p><p>&lt;template&gt;</p><p>Container</p><p>Defines reusable content that can be used at multiple locations within a document</p><p>&lt;table&gt;</p><p>Container</p><p>Defines the table data in rows and columns</p><p>&lt;u&gt;</p><p>Text/Inline</p><p>Creates an underline effect on text within a webpage</p><p>&lt;q&gt;</p><p>Text/Inline</p><p>Used for inline quotations within a document</p><p>&lt;ul&gt; and &lt;li&gt;</p><p>Container/Text</p><p>Create an unordered list</p><p>&lt;ol&gt; and &lt;li&gt;</p><p>Container/Text</p><p>Create an ordered list</p><p>&lt;output&gt;</p><p>Inline</p><p>Represents the result of a calculation or user action</p><p>&lt;marquee&gt;</p><p>Container/Text</p><p>Allows adding scrolling text or images horizontally or vertically on a web page</p><p>Let’s look at these HTML codes in detail. </p><h3>&lt;html&gt; </h3><p>The tag you are referring to is the tag. It represents the root element of an HTML document and serves as the container for all other HTML elements. The opening tag is placed at the beginning of the document, while the closing tag is placed at the end.</p><h3>&lt;head&gt; Header Tag</h3><p>It is used to define the head section of a webpage, which contains metadata, links to external files, and other important information that is not typically displayed on the actual webpage.</p><h3>&lt;h1&gt; Heading Tag &lt;/h6&gt;</h3><p>These are used to define the headings and subheadings of a webpage. They help structure and organize the content on a page, as well as help search engines understand the hierarchical structure of a document.</p><p>There are six heading tags in HTML, numbered from H1 to H6, with H1 being the highest level and H6 being the lowest.</p><p>It&#x27;s recommended to use only one H1 tag per page and organize subsequent <a href="https://www.scalenut.com/blogs/header-tag">heading tags in a logical order</a>.</p><h3>&lt;p&gt; Paragraph Tag &lt;/p&gt;</h3><p>It defines a paragraph. It is a block-level element that represents a single unit of text. When you wrap your text within the opening and closing tags, it tells the browser to treat the enclosed content as a separate paragraph.</p><p>The paragraph tag helps improve the accessibility and readability of your website&#x27;s content, making it easier for both users and search engines to understand the structure of your text.</p><h3>&lt;a&gt; Link Tag</h3><p>The link tag, also known as the anchor tag or the tag, is an HTML element used to create hyperlinks on web pages. It is primarily used to link one web page to another, but it can also be used to link to a specific section within the same web page or to external resources such as images, documents, or videos.</p><p>Here is an example of how to use the Link tag:</p><p><em>Click here to visit example.com</em></p><p>In this example, the text &quot;Click here to visit example.com&quot; is displayed as a clickable link. When the user clicks on the link, they will be taken to the URL specified in the href attribute, which in this case is &quot;<a href="https://www.example.com">https://www.example.com</a>.&quot;</p><h3>&lt;font&gt; ... &lt;/font&gt;</h3><p>Font is an important element in HTML coding as it allows you to define the appearance of text on a webpage. With HTML, you can specify different font styles, sizes, and colors to customize the look of your content. </p><p>The font tag was commonly used in older versions of HTML to define these attributes, but it is now considered obsolete, and CSS should be used instead. </p><h3>&lt;BODY&gt; &lt;/BODY&gt;</h3><p>The tag in HTML is used to define the main content of a webpage. It represents the visible content that users see when they visit a website. The tag is a container for all the content, such as text, images, videos, audio, headings, paragraphs, links, forms, and more.</p><h3>&lt;dl&gt;, &lt;dt&gt; and &lt;dd&gt; </h3><p>A description list or definition list is an HTML element used to create a list of terms with their corresponding descriptions. It consists of three tags: &lt;dl&gt; defines the description list, &lt;dt&gt; defines the term (name), and &lt;dd&gt; describes each term. </p><p>This feature is commonly used when providing definitions or explanations for specific terms or concepts. The &lt;dl&gt; tag can be combined with other HTML elements to create informative and organized content.</p><h3>&lt;IMG&gt;</h3><p>The image HTML tag is used to display images on a web page. It is one of the fundamental elements of HTML and allows you to embed images from a local directory or remotely hosted on the internet.</p><h3>&lt;br&gt; </h3><p>&lt;br&gt; is a simple HTML tag used to create a single line break within a paragraph or block of text. When this tag is inserted, it forces the content after it to appear on a new line, just like hitting the Enter or Return key on a keyboard to start a new line in a word-processing document.</p><p>For example, if you have a paragraph of text and you want to add a plain horizontal line break between two sentences, you can insert &lt;br&gt; at the desired location. Here&#x27;s an example:</p><p><em>This is the first sentence.</em></p><p><em>This is the second sentence.</em></p><p>When rendered in a web browser, the above code would display as:</p><p>This is the first sentence.</p><p>This is the second sentence.</p><h3>&lt;iframe&gt;</h3><p>The iframe tag in HTML is used to define a rectangular region within the document where the browser can display a separate document. It allows you to embed another webpage or document within your current HTML document. </p><p>This is useful for displaying content from other sources, such as videos, maps, or social media feeds, on your website. By using the iframe tag and specifying the source of the content, you can easily incorporate external content into your web page.</p><h3>&lt;template&gt; Contents &lt;/template&gt;</h3><p>A template tag in HTML is used to store HTML code fragments, which can be cloned and inserted into an HTML document. </p><p>The template tag itself does not display any content on the page; instead, it serves as a placeholder for the content defined within it. You can think of it as a blueprint for creating dynamic content.</p><p>To use a template, you typically define its content within a script element with a type attribute set to &quot;text/template&quot; or &quot;text/x-template.” </p><h3>&lt;table&gt;</h3><p>The table tag is one of the fundamental HTML tags used for structuring data in a tabular format on a web page. It allows you to create rows and columns to organize and display data. It consists of three main sections: the table header, table body, and table footer.</p><p>The table header contains the column headings for your table.</p><p>The table body holds the main content of the table, consisting of table, rows and columns.</p><p>The table footer is optional and typically contains summary information or additional details for the table.</p><p>Here&#x27;s an example of a simple table with two rows and three columns:</p><p><em>Column 1	Column 2	Column 3</em></p><p><em>Row 1, Cell 1	Row 1, Cell 2	Row 1, Cell 3</em></p><p><em>Row 2, Cell 1	Row 2, Cell 2	Row 2, Cell 3</em></p><p>This is just a basic overview of the table tag. There are many more attributes and options you can use to customize tables, such as colspan, rowspan, table captions, styling with CSS, and more.</p><h3>&lt;u&gt; Underline Tag&lt;/u&gt;</h3><p>The underline tag in HTML is used to create an underline effect on text within a webpage. It is represented by the tag. When this tag is applied to a section of text, it adds a line underneath that text.</p><p>Here&#x27;s an example:</p><p><em>Html</em></p><p><em>This is a sample text with the underlined word.</em></p><p>In the above code snippet, the word &quot;sample&quot; will be underlined when rendered in a browser.</p><h3>&lt;q&gt;</h3><p>The inline quotation tag, also known as the &quot;quote&quot; tag or the &quot;q&quot; tag, is an HTML element used to mark up inline quotations within a document. It is typically used to indicate quoted text from another source.</p><p>To use the inline quotation tag, you need to wrap the quoted text within the &quot;q&quot; tag. Here is an example:</p><p><em>Albert Einstein once said, Imagination is more important than knowledge.</em></p><p>In the example above, the quoted text &quot;Imagination is more important than knowledge&quot; is enclosed in the &quot;q&quot; tags. The &quot;p&quot; tags surrounding the &quot;q&quot; tags are used to define a paragraph, but they are not strictly necessary for using the inline quotation tag.</p><h3>&lt;ul&gt; and &lt;li&gt;</h3><p>These tags are used to create an unordered list. The &lt;ul&gt; tag represents the list container, and the &lt;li&gt; tags represent the list item.</p><p>Example:</p><p><em>&lt;ul&gt;</em></p><p><em>&lt;li&gt;Item 1&lt;/li&gt;</em></p><p><em>&lt;li&gt;Item 2&lt;/li&gt;</em></p><p><em>&lt;li&gt;Item 3&lt;/li&gt;</em></p><p><em>&lt;/ul&gt;</em></p><h3>&lt;ol&gt; and &lt;li&gt;</h3><p>These tags are used to create an ordered (numbered) list. The &lt;ol&gt; tag represents the list container, and the &lt;li&gt; tags represent the list item.</p><p>Example:</p><p><em>&lt;ol&gt;</em></p><p><em>&lt;li&gt;First item&lt;/li&gt;</em></p><p><em>&lt;li&gt;Second item&lt;/li&gt;</em></p><p><em>&lt;li&gt;Third item&lt;/li&gt;</em></p><p><em>&lt;/ol&gt;</em></p><h3>&lt;output&gt; Results… &lt;/output&gt;</h3><p>In HTML, the &lt;output&gt; tag is used to represent the result of a calculation performed by client-side scripts such as JavaScript. It is used to display the output or result of a calculation on a webpage. </p><p>This tag is commonly used in forms and interactive web applications where calculations are performed based on user input. The &lt;output&gt; tag can be styled using CSS to customize its appearance and make it more visually appealing.</p><h3>&lt;marquee&gt;Contents&lt;/marquee&gt;</h3><p>The marquee tag is a popular HTML code used to create scrolling text or images on a webpage. It allows content to scroll either horizontally or vertically, adding dynamic movement and visual interest to the page. </p><p>The marquee tag can be used to highlight specific parts of text in a paragraph or to create attention-grabbing banners. Overall, it is a versatile tool that adds interactivity and enhances the user experience on websites.</p><h2>How to Check Your Site’s HTML Tags</h2><p>As a web developer or website owner, understanding the HTML structure of your site is essential to ensuring its proper functioning, accessibility, and search engine optimization. By checking your site&#x27;s HTML tags, you can identify potential issues, optimize your code, and enhance the overall user experience. </p><p>Here’s a step-by-step process of inspecting and evaluating the HTML tags on your website, empowering you to make informed decisions and improvements.</p><h3>Step 1: Accessing the HTML Code</h3><p>To begin, open your website in a web browser. Right-click on any part of the webpage, and from the context menu that appears, select &quot;Inspect&quot; or &quot;Inspect Element.&quot; </p><figure style="max-width:1321px" class="w-richtext-align-fullwidth w-richtext-figure-type-image"><div><img src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d713de002c14b7b5653a7_CTEZnkZPsufX5MmtS4_jlqqFJx5vVGcJ4H3t6zPwGADwvZbay7aX4qjVFPtpXyAIU33g1g2Gtk_4SJ2bFyHBnes-DDSQStZZTdjNQWVnsnTCM3loPtW6vJQdAjw7tlD9MUfEl1gvLsvshdxVLMnKTk8.png" loading="lazy" alt="you can access HTML codes by right-clicking and going to ‘Inspect’ and then ‘Inspect Element.’ "/></div></figure><p>This action will open the browser&#x27;s Developer Tools, which allows you to view and analyze the underlying HTML and CSS code of the page.</p><h3>Step 2: Understanding the HTML Structure</h3><p>In the Developer Tools window, you&#x27;ll see the HTML code of your webpage. Take a moment to familiarize yourself with the structure. The HTML code consists of various tags, elements, and attributes, each playing a specific role in shaping your site&#x27;s appearance and functionality.</p><h3>Step 3: Identifying Essential Tags</h3><p>As you inspect the HTML, pay special attention to some fundamental tags like &lt;html&gt;, &lt;head&gt;, &lt;body&gt;, &lt;h1&gt; to &lt;h6&gt;, &lt;p&gt;, and &lt;a&gt; because these tags help in creating well-structured, accessible, and maintainable web pages. </p><h3>Step 4: Checking Semantic Tags</h3><p>Semantic HTML tags play a crucial role in conveying the meaning and structure of your content. Ensure that you&#x27;ve used appropriate tags like &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;section&gt;, &lt;article&gt;, &lt;aside&gt;, and &lt;footer&gt; to enhance the semantic value of your website.</p><h3>Step 5: Validating HTML</h3><p>A valid HTML code is essential for cross-browser compatibility and proper rendering. Consider using online HTML validation tools to check for any syntax errors or missing elements.</p><h3>Step 6: Accessibility Check</h3><p>Verify that your HTML code adheres to accessibility guidelines. Ensure you&#x27;ve included alt attributes for images, proper label tags for form elements, and semantic markup for screen readers and assistive technologies.</p><h3>Step 7: Optimizing for SEO</h3><p>Examine the usage of heading tags, title tags, and meta descriptions. Ensure they are relevant, descriptive, and contain essential keywords to improve your site&#x27;s search engine rankings.</p><h3>Step 8: Mobile Responsiveness</h3><p>Check if your HTML code is responsive and mobile-friendly. Ensure that your website adapts well to different screen sizes and devices.</p><h3>Step 9: Cleaning Up Unused Code</h3><p>Regularly review your HTML code and remove any unused or redundant elements, styles, and scripts to improve page loading speed and overall performance.</p><h3>Step 10: Testing Across Browsers</h3><p>Finally, test your website across different browsers to ensure consistent rendering and functionality.</p><p>Keeping your HTML code tidy and efficient is a crucial aspect of successful web development and maintaining a high-quality online presence.</p><h2>Conclusion</h2><p>A good understanding of HTML codes empowers you to create and design websites, troubleshoot issues and collaborate effectively with others. It is a crucial element of web development and design. With a strong understanding of HTML codes and their effective utilization, you can take your web development skills to the next level and successfully execute personalized web projects. </p><h2>FAQs on HTML codes list:</h2><h3>Are there any restrictions on using HTML codes?</h3><p>While HTML codes provide flexibility, there are certain best practices and restrictions to ensure proper rendering and compatibility across browsers. For example, nested tags should be properly closed in the correct order, attribute values should be enclosed in quotes, and some tags may require specific attributes or content. It is important to refer to HTML specifications and guidelines to ensure valid and robust code.</p><h3>Can I create my own custom HTML codes?</h3><p>HTML itself doesn&#x27;t allow for the creation of custom tags, as it follows a predefined set of standardized tags. However, you can define your own class or ID names within existing tags to add custom styles using CSS. This allows for flexibility and customization while still adhering to HTML standards.</p><h3>Can I change the default numbering style of an ordered list?</h3><p>Yes, you can change the default numbering style using CSS. You can choose from various numbering types, such as decimals, Roman numerals, lowercase letters, etc.</p><h3>Are there any tools or software available to help with using HTML codes?</h3><p>Yes, there are several tools and software available to assist with HTML coding, ranging from simple text editors to more advanced integrated development environments (IDEs). Some popular options include Visual Studio Code, Sublime Text, Atom, and Adobe Dreamweaver. Additionally, online HTML editors like CodePen and JSFiddle offer real-time previews and collaboration features.</p><p><strong>About Scalenut </strong></p><p><em>Scalenut is an </em><a href="https://www.scalenut.com/"><em>AI-powered SEO and content marketing platform</em></a><em> that helps discover and create relevant content for your customers. Be it brainstorming a content strategy, creating comprehensive briefs, generating the content, or optimizing it per the best SEO practices, Scalenut has made the process extremely easy. Click here to </em><a href="https://app.scalenut.com/auth/?context=blogs-html-codes-list" target="_blank"><em>create a free account</em></a><em> and explore the many features of this tool.</em><br/></p></article><div id="author-wrap" class="blog-author-outer-wrap"><img src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/6543d06fd475ed33c26aa3f5_suman.webp" loading="lazy" alt="" class="testimonial-image blog-author hide"/><div class="_12-columns vertical-direction left-align hide"><div bind="20e7a5ec-17ee-0054-2b4f-ef46d95ea725" class="medium-paragraph bold">Suman Samal</div><div class="paragraph-small black">Asst. Marketing Manager</div></div><div class="blog-author-wrap"><h5 class="services-heading h5">ABout the AUTHOR</h5><div class="_12-columns blog-author-inner-popup"><img src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/6543d06fd475ed33c26aa3f5_suman.webp" loading="lazy" alt="" class="testimonial-image blog-author"/><div class="column left-align"><div>Suman Samal</div><div class="paragraph-small">Asst. Marketing Manager</div></div></div><div class="spacer _16"></div><div class="_12-columns"><p class="medium-paragraph left-align font-inter">Suman Samal is a Asst. Marketing Manager at Scalenut. She is a technology enthusiast with a keen interest in content marketing and SEO. She truly believes that with the right set of tools every organization can improve the ROI of their content marketing campaigns. She spends her time managing content operations at Scalenut and ensuring that everything we publish is of the highest quality.</p></div><div class="spacer _16"></div><div class="_12-columns"><a href="https://in.linkedin.com/in/suman-samal" target="_blank" class="blog-author-linkedin-icon w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/610d03aafb9ce2add21887ff_linkedin-fill.svg" loading="lazy" width="30" alt=""/></a><a href="https://twitter.com/sumansamal21" target="_blank" class="blog-author-linkedin-icon w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/610d03aa6d02ee2d0931e762_twitter-fill.svg" loading="lazy" width="35" alt=""/></a><a href="#" class="blog-author-linkedin-icon w-inline-block w-condition-invisible"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/610d051e03d2ba3f798deb12_instagram-line.svg" loading="lazy" width="35" alt=""/></a></div><div class="spacer _16"></div><a href="/author/suman-samal" class="blog-author-link">View all articles by this Author --&gt;</a></div></div><div class="div-block-10"><div class="blog-footer-banner"><div class="services-heading h4 white">Create SEO content that ranks</div><p class="medium-paragraph white">Plan, write and optimize long form content with AI Tools</p><div class="spacer _16"></div><a id="footer-banner" data-w-id="febbfe04-f619-2532-9ed0-cc7be8685257" href="#" class="button white w-inline-block"><div class="button-text-block">Try for Free</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6123673336a7352b3450fbed_arrow-right.svg" loading="lazy" alt="" class="button-icon"/></a></div></div></div><div class="blog-sidebar"><div class="social-icons-wrap"><a data-share-linkedin="true" href="#" class="w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64820a0b4e6c35a26e7cc28d_icons8-linkedin-circled.svg" loading="lazy" width="35" height="35" alt="" class="social-share-icon"/></a><a data-share-facebook="true" href="#" class="w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/648209e6d86f36e8866ff3ab_icons8-facebook.svg" loading="lazy" width="35" height="35" alt="" class="social-share-icon"/></a><a data-share-twitter="true" href="#" class="w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64820975b8be461393f34e25_icons8-twitter%20(1).svg" loading="lazy" width="35" height="35" alt="" class="social-share-icon"/></a><a data-share-whatsapp="true" href="#" class="w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/648209112b26705faa12a4f3_icons8-whatsapp.svg" loading="lazy" width="35" height="35" alt="" class="social-share-icon"/></a><a data-copy-url="true" href="#" class="w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64820a680656fd83d0d63e4c_icons8-share.svg" loading="lazy" width="35" height="35" alt="" class="social-share-icon"/></a></div><div data-w-id="20b0f665-ec7f-442f-059b-80f973e399a6" style="display:none;opacity:0" class="sidebar-popup w-condition-invisible"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/619f5d0fa030d45ae2dd3956_Mark%20aqua.svg" loading="lazy" alt="" class="image-3"/><p class="sidebar-heading"><strong>Try our AI Tools to create SEO content faster and better</strong></p><a id="sidebar-popup" href="https://app.scalenut.com/auth" class="small-button w-button">Sign Up Today</a></div><a id="blogs-side-banner" href="https://zoom.us/webinar/register/WN_9v4gvAEGQKqYNoUWaxkp2g#/registration" target="_blank" class="blog-banner hide w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6667d7c2ac0cc38bbb92b46a_Blog_banner.webp" loading="lazy" alt="" id="side-banner-image" class="image-27"/></a><a id="blogs-side-banner" href="https://app.scalenut.com/admin/account/plans" target="_blank" class="blog-banner w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/67d1d7002a0b37769451eed6_blog%20banner%20(5).jpg" loading="lazy" alt="" id="side-banner-image" class="image-27"/></a><div class="blog-form-wrap blue-grad-wrap"><div class="blog-form hide w-form"><form id="wf-form-Blog-Demo-Form" name="wf-form-Blog-Demo-Form" data-name="Blog Demo Form" method="get" data-form="multistep" class="blog-form" data-wf-page-id="652fb795965b47158f28f7ca" data-wf-element-id="50bb1927-eedf-92d6-d772-174c9ec8badc"><div id="step-1" data-form="step" class="form-inner-step"><label for="name" class="field-label blue big">Want to increase organic traffic?</label><div class="spacer _16"></div><div class="blog-form-radio-wrap"><label class="radio-button-field w-radio"><input id="Yes" type="radio" name="Yes-No" data-name="Yes/No" class="w-form-formradioinput radio-button-2 w-radio-input" value="Yes"/><span class="field-label no-margin w-form-label" for="Yes">Yes</span></label><label class="radio-button-field w-radio"><input id="No" type="radio" name="Yes-No" data-name="Yes/No" class="w-form-formradioinput radio-button-2 w-radio-input" value="No"/><span class="field-label no-margin w-form-label" for="No">No</span></label></div></div><div id="step-2" data-form="step" class="form-inner-step hide"><label for="name-2" class="field-label blue big">What is your industry? </label><div class="spacer _16"></div><div class="blog-form-radio-wrap"><label class="radio-button-field w-radio"><input id="IT-SAAS" type="radio" name="Industry" data-name="Industry" class="w-form-formradioinput radio-button-2 w-radio-input" value="IT/SAAS"/><span class="field-label no-margin w-form-label" for="IT-SAAS">IT/SAAS</span></label><label class="radio-button-field w-radio"><input id="Agency" type="radio" name="Industry" data-name="Industry" class="w-form-formradioinput radio-button-2 w-radio-input" value="Agency"/><span class="field-label no-margin w-form-label" for="Agency">Agency</span></label><label class="radio-button-field w-radio"><input id="Manufacturing" type="radio" name="Industry" data-name="Industry" class="w-form-formradioinput radio-button-2 w-radio-input" value="Manufacturing"/><span class="field-label no-margin w-form-label" for="Manufacturing">Manufacturing</span></label><label class="radio-button-field w-radio"><input id="Ecommerce" type="radio" name="Industry" data-name="Industry" class="w-form-formradioinput radio-button-2 w-radio-input" value="Ecommerce"/><span class="field-label no-margin w-form-label" for="Ecommerce">Ecommerce</span></label><label class="radio-button-field w-radio"><input id="Affiliate-Marketing" type="radio" name="Industry" data-name="Industry" class="w-form-formradioinput radio-button-2 w-radio-input" value="Affiliate Marketing"/><span class="field-label no-margin w-form-label" for="Affiliate-Marketing">Affiliate Marketing</span></label><label class="radio-button-field w-radio"><input id="Individual-Blogger" type="radio" name="Industry" data-name="Industry" class="w-form-formradioinput radio-button-2 w-radio-input" value="Individual Blogger"/><span class="field-label no-margin w-form-label" for="Individual-Blogger">Individual Blogger </span></label></div></div><div id="step-3" data-form="step" class="blog-form-radio-wrap hide"><label for="name" class="field-label white">Name</label><input class="blog-form-field w-input" maxlength="256" name="name" data-name="Name" placeholder="" type="text" id="name"/><label for="Email-Button" class="field-label white">Email</label><input class="blog-form-field w-input" maxlength="256" name="Email-Button" data-name="Email Button" placeholder="" type="email" id="Email-Button" required=""/><label for="Website" class="field-label white">Website</label><input class="blog-form-field w-input" maxlength="256" name="Website" data-name="Website" placeholder="" type="text" id="Website" required=""/><label for="Phone" class="field-label white">Contact</label><input class="blog-form-field w-input" maxlength="256" name="Phone" data-name="Phone" placeholder="" type="tel" id="Phone" required=""/><input type="submit" data-wait="Please wait..." id="blog_form_submit" data-form="submit-btn" class="button small-button yellow _w-100 w-button" value="Submit"/></div><div class="form-buttons"><a data-form="next-btn" href="#" class="button small-button yellow _w-100 w-button">Next</a></div></form><div class="success-message-3 w-form-done"><div>Thank you! <br/>Our Product Specialist will connect with you shortly. In the meanwhile, please explore <a href="#" id="blog-form-TY"><span>Scalenut</span></a></div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div><div class="html-embed-6 w-embed"></div></div></div></div></div><div class="section half-padding"><div class="container w-container"><div class="column desk-12"><h2>Related Posts</h2></div><div class="spacer _24"></div><div bind="ae167d4d-5e91-6988-836d-0496fc8d3795" class="w-dyn-list"><div bind="ae167d4d-5e91-6988-836d-0496fc8d3796" role="list" class="_12-columns align-stretch justify-start w-dyn-items"><div bind="ae167d4d-5e91-6988-836d-0496fc8d3797" role="listitem" class="column desk-4 w-dyn-item"><a bind="ae167d4d-5e91-6988-836d-0496fc8d3798" href="/blogs/keeping-up-with-google-august-2024" class="card w-inline-block"><img data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;70vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;35vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;24vw&quot;}]" bind="ae167d4d-5e91-6988-836d-0496fc8d3799" alt="Keeping Up With Google: August Core Update Edition" src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/667aba3f675c6a02c5d558ad_Google%20to%20Highlight%20AI%20Overviews%20Over%20Organic%20Search%20Results_.png" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcset="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/667aba3f675c6a02c5d558ad_Google%20to%20Highlight%20AI%20Overviews%20Over%20Organic%20Search%20Results_-p-500.png 500w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/667aba3f675c6a02c5d558ad_Google%20to%20Highlight%20AI%20Overviews%20Over%20Organic%20Search%20Results_-p-800.png 800w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/667aba3f675c6a02c5d558ad_Google%20to%20Highlight%20AI%20Overviews%20Over%20Organic%20Search%20Results_-p-1080.png 1080w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/667aba3f675c6a02c5d558ad_Google%20to%20Highlight%20AI%20Overviews%20Over%20Organic%20Search%20Results_.png 1171w" class="card-thumbnail"/><div class="card-text-container"><div bind="ae167d4d-5e91-6988-836d-0496fc8d379b" class="card-tag w-dyn-bind-empty"></div><h3 bind="ae167d4d-5e91-6988-836d-0496fc8d379c" class="card-title">Keeping Up With Google: August Core Update Edition</h3><p bind="ae167d4d-5e91-6988-836d-0496fc8d379d" class="card-summary">Google released its August core update last week. Here’s everything you need to know about it
+</p></div></a></div><div bind="ae167d4d-5e91-6988-836d-0496fc8d3797" role="listitem" class="column desk-4 w-dyn-item"><a bind="ae167d4d-5e91-6988-836d-0496fc8d3798" href="/blogs/best-ai-seo-content-generators" class="card w-inline-block"><img data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;70vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;35vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;24vw&quot;}]" bind="ae167d4d-5e91-6988-836d-0496fc8d3799" alt="15 Best AI SEO Content Generators for Quick Results" src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100.webp" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcset="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100-p-500.webp 500w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100-p-800.webp 800w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100-p-1080.webp 1080w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100.webp 1171w" class="card-thumbnail"/><div class="card-text-container"><div bind="ae167d4d-5e91-6988-836d-0496fc8d379b" class="card-tag w-dyn-bind-empty"></div><h3 bind="ae167d4d-5e91-6988-836d-0496fc8d379c" class="card-title">15 Best AI SEO Content Generators for Quick Results</h3><p bind="ae167d4d-5e91-6988-836d-0496fc8d379d" class="card-summary"> Master the art of SEO AI with our beginner&#x27;s guide for 2024. Elevate your digital presence and optimize your website for success.</p></div></a></div><div bind="ae167d4d-5e91-6988-836d-0496fc8d3797" role="listitem" class="column desk-4 w-dyn-item"><a bind="ae167d4d-5e91-6988-836d-0496fc8d3798" href="/blogs/how-accurate-is-turnitin-ai-detection" class="card w-inline-block"><img data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;70vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;35vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;24vw&quot;}]" bind="ae167d4d-5e91-6988-836d-0496fc8d3799" alt="How accurate is Turnitin AI detection?" src="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100.webp" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcset="https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100-p-500.webp 500w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100-p-800.webp 800w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100-p-1080.webp 1080w, https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/668bd863f52106ee25bec9b4_how%20to%20bypass%20turnitin%20ai%20detection-100.webp 1171w" class="card-thumbnail"/><div class="card-text-container"><div bind="ae167d4d-5e91-6988-836d-0496fc8d379b" class="card-tag w-dyn-bind-empty"></div><h3 bind="ae167d4d-5e91-6988-836d-0496fc8d379c" class="card-title">How accurate is Turnitin AI detection?</h3><p bind="ae167d4d-5e91-6988-836d-0496fc8d379d" class="card-summary">Curious about how accurate is Turnitin AI detection? Our blog explores the efficiency of Turnitin&#x27;s AI detection system.
+</p></div></a></div></div></div></div></div></div><footer bind="b66374b8-a69d-2cb6-3980-23c2cf3fcb86" class="footer-black"><div class="container-5 w-container"><div class="_12-columns-2 align-top"><div class="column desk-3 tab-6 mob-6"><div class="footer-links_wrap"><h3 class="footer-header">Platform</h3><a href="/platform-overview" class="footer_link">Overview</a><a href="https://www.scalenut.com/platform/plan-content" class="footer_link">Plan Content</a><a href="https://www.scalenut.com/platform/generate-content-brief" class="footer_link">Research Content</a><a href="https://www.scalenut.com/platform/create-winning-content" class="footer_link">Create Winning Content</a><a href="https://www.scalenut.com/platform/content-audit" class="footer_link">Content Audit</a><a href="https://www.scalenut.com/platform/optimize-content" class="footer_link">Optimize Content</a></div></div><div id="w-node-_8d6b83b7-ab62-8eea-2865-3003fb3d1d91-fb3d1d82" class="column desk-3 tab-6 mob-6"><div class="footer-links_wrap"><h3 class="footer-header">Features</h3><a href="https://www.scalenut.com/features/cruise-mode" class="footer_link">Cruise Mode</a><a href="https://www.scalenut.com/features/topic-clusters" class="footer_link">Keyword Planner</a><a href="https://www.scalenut.com/features/link-manager" class="footer_link">Internal Linking</a><a href="https://www.scalenut.com/features/traffic-analyzer" class="footer_link">Traffic Analyzer</a><a href="https://www.scalenut.com/features/nlp-analysis" class="footer_link">NLP terms</a><a href="/features" class="footer-link-3 with-arrow w-inline-block"><div class="footer_link no-margin">View All</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6372205d064487a1e10da37a_Vector%2041%20(1).svg" loading="lazy" width="7" height="30" alt="" class="footer-arrow"/></a></div></div><div class="column desk-3 tab-6 mob-6"><div class="footer-links_wrap"><h3 class="footer-header">Add-ons</h3><a href="https://www.scalenut.com/features/link-manager" class="footer_link">AI Link Manager</a><a href="/ai-content-detector" class="footer_link">AI Content Detector &amp; Humanizer</a><a href="/on-page-pro" class="footer_link">OnPage Pro</a><a href="https://wordpress.org/plugins/scalenut/" class="footer_link hide">Free WordPress Plugin</a></div></div><div class="column desk-3 tab-6 mob-6"><div class="footer-links_wrap"><h3 class="footer-header">Company</h3><a href="/about" class="footer_link">About</a><a href="/reviews" class="footer_link">Customer Reviews</a><a href="/affiliate" class="footer_link">Affiliate Program</a><a href="/team" class="footer_link">Meet The Team</a><div class="spacer _32 desktop-hidden"></div></div></div></div><div class="_12-columns-2 align-top"><div id="w-node-_8d6b83b7-ab62-8eea-2865-3003fb3d1dcf-fb3d1d82" class="column desk-3 tab-6 mob-6"><div class="footer-links_wrap"><h3 class="footer-header">Comparisons</h3><a href="https://www.scalenut.com/comparisons/scalenut-vs-surfer-seo" class="footer_link">Scalenut  vs Surfer SEO</a><a href="https://www.scalenut.com/comparisons/scalenut-vs-clearscope" class="footer_link">Scalenut  vs Clearscope</a><a href="https://www.scalenut.com/comparisons/scalenut-vs-jasper-ai" class="footer_link">Scalenut  vs Jarvis</a><a href="https://www.scalenut.com/comparisons/scalenut-vs-frase" class="footer_link">Scalenut  vs Frase</a><a href="/comparisons" class="footer-link-3 with-arrow w-inline-block"><div class="footer_link no-margin">View All</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6372205d064487a1e10da37a_Vector%2041%20(1).svg" loading="lazy" width="7" height="30" alt="" class="footer-arrow"/></a></div></div><div class="column desk-3 tab-6 mob-6"><div class="footer-links_wrap"><h3 class="footer-header">Free Tools</h3><a href="/seo-tools/seo-analyzer" class="footer_link">Product Description Generator</a><a href="/seo-tools/long-tail-keywords" class="footer_link">Meta Description Generator</a><a href="/seo-tools/onpage-seo-checker" class="footer_link">Passive To Active Convertor</a><a href="/seo-tools/seo-analyzer" class="footer_link">Blog Ideas Generator</a><a href="/tools" class="footer-link-3 with-arrow w-inline-block"><div class="footer_link no-margin">View All</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/6372205d064487a1e10da37a_Vector%2041%20(1).svg" loading="lazy" width="7" height="30" alt="" class="footer-arrow"/></a></div></div><div class="column desk-3 tab-6 mob-6"><div class="footer-links_wrap"><h3 class="footer-header">Support</h3><a href="/contact-us" class="footer_link">Contact Us</a><a href="https://help.scalenut.com/" target="_blank" class="footer_link">Help Docs</a><a href="https://feedback.scalenut.com/roadmap" target="_blank" class="footer_link">Roadmap</a><link rel="prefetch" href="https://feedback.scalenut.com/roadmap"/><a href="https://feedback.scalenut.com/" target="_blank" class="footer_link">Feedback</a></div></div><div class="column desk-3 tab-6 mob-6"><div class="footer-links_wrap"><h3 class="footer-header">Resources</h3><a href="https://www.scalenut.com/bootcamp/introduction-to-scalenut" class="footer_link">Bootcamp</a><a href="/blogs" class="footer_link">Blog</a><a href="https://feedback.scalenut.com/changelog" class="footer-link-3 hidden">Changelog</a><a href="/case-studies" class="footer_link">Case Studies</a><a href="https://feedback.scalenut.com/changelog" target="_blank" class="footer_link">What&#x27;s New?</a></div></div><div class="column desk-3 tab-6 mob-6 hide"><h3 class="footer-header">Community</h3><h3 class="footer_link mobile-hidden">Join our vibrant Facebook community and dominate SERP with AI-powered SEO &amp; content marketing</h3><h3 class="footer-header-3 mobile">Join our vibrant Facebook community and write SEO Optimized content with AI</h3><a rel="noopener" href="https://m.facebook.com/groups/2992138341053969?view=group" target="_blank" class="button-primary is_transparent_white w-inline-block"><div class="button-text-block-2 small-text">Join Facebook Community</div><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/612366d9e1787c66cd3b0ceb_arrow--right.svg" loading="lazy" width="15" height="15" alt="Right Arrow Icon" class="button-icon-3 mob-small hidden"/></a></div></div><div class="footer-email-wrap"><div class="flex-vertical align_start"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/64e50b9addee1e706b7ca1d7_scalenut%20logo.svg" loading="lazy" alt=""/><div class="spacer _16"></div><div class="div"><div class="scalenut-inc-00-0th-floor-bengaluru-ka-560068-india">Scalenut Inc.
+</div></div></div><div class="body-text-medium text-color-white">Join the 1M+ business scaling their content with Scalenut.</div><div class="footer_form w-form"><form id="wf-form-Footer-Form" name="wf-form-Footer-Form" data-name="Footer Form" method="get" class="footer-form-container" data-wf-page-id="652fb795965b47158f28f7ca" data-wf-element-id="8d6b83b7-ab62-8eea-2865-3003fb3d1e07"><div class="footer-form-block"><input class="footer_form-field w-input" maxlength="256" name="Email-2" data-name="Email 2" aria-label="Product updates" placeholder="Whats your work email" type="email" id="Email-2" required=""/><input id="footer-form-submit" type="submit" data-wait="Please wait..." class="footer_form_submit w-button" value="Get Started"/></div><div class="spacer _8"></div><div class="text-style-smalllabel is_generalsans">No spam, forever. Guaranteed.</div></form><div class="succes-email w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="error-email w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div><div class="footer_block"><div class="flex-vertical"><div class="text-style-smalllabel">© Scalenut 2023. All Rights Reserved.</div><div class="privacy-links-wrap"><a href="https://feedback.scalenut.com/" class="footer_link">Report an issue</a><a href="/terms-and-conditions" class="footer_link">Terms</a><a href="/privacy-policy" class="footer_link">Privacy</a></div></div><div class="social-links_container"><a rel="noopener" href="https://www.linkedin.com/company/scalenut/" target="_blank" class="social-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/610d03aafb9ce2add21887ff_linkedin-fill.svg" loading="lazy" width="30" height="30" alt="" class="social-icon"/></a><a rel="noopener" href="https://twitter.com/Scalenut_AI" target="_blank" class="social-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/610d03aa6d02ee2d0931e762_twitter-fill.svg" loading="lazy" width="30" height="30" alt="" class="social-icon"/></a><a rel="noopener" href="https://www.facebook.com/Scalenut.official" target="_blank" class="social-link w-inline-block"><img src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/610d03aa753afe74460ab248_facebook-circle-fill.svg" loading="lazy" width="30" height="30" alt="" class="social-icon"/></a></div></div></div></footer><div class="blog-sticky-banner hide-laptop"><a id="blog-sticky-1" href="#" class="button-primary is_small blg-sticky w-inline-block w-condition-invisible"><div>Create SEO-Ready Blog with Scalenut</div></a><a id="blog-sticky-2" href="#" class="button-primary is_small blg-sticky w-inline-block"><div>Try Scalenut for Free</div></a><a id="blog-sticky-3" href="#" class="button-primary is_small blg-sticky w-inline-block w-condition-invisible"><div>Boost Your SEO Game</div></a></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=60ef088dd8fef919efabb412" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/js/webflow.schunk.b7cad701f94860c2.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/js/webflow.schunk.5cbbd490425fbc7a.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/js/webflow.28ee7e15.79cff6a104082ffd.js" type="text/javascript"></script><!-- Start of homepage banner Code -->
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
+
+    <script>
+    	var typed4 = new Typed('.typed-text', {
+        strings: ['Conversions', 'Traffic', 'Demand'],
+        typeSpeed: 55,
+        backSpeed: 55,
+        bindInputFocusEvents: true,
+        loop: true,
+        cursorChar: 'I',
+        backDelay: 700,
+        startDelay: -50
+      });
+    </script>
+                                         
+<!-- Start of OneTap Code -->
+
+<script>
+ window.onload = function() {
+    // Load Google Accounts script
+    var googleScript = document.createElement('script');
+    googleScript.async = true;
+    googleScript.src = "https://accounts.google.com/gsi/client";
+    document.head.appendChild(googleScript);
+
+    // Function to get landing page cookie
+    function getLandingPageCookie() {
+        var cookieName = "landing_page";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var cookieArray = decodedCookie.split(";");
+
+        for (var i = 0; i < cookieArray.length; i++) {
+            var cookie = cookieArray[i];
+            while (cookie.charAt(0) === " ") {
+                cookie = cookie.substring(1);
+            }
+            if (cookie.indexOf(cookieName + "=") === 0) {
+                return cookie.substring(cookieName.length + 1, cookie.length);
+            }
+        }
+        return null; // Cookie not found
+    }
+
+    var landingPageValue = getLandingPageCookie();
+
+    // Function to initialize One Tap
+    function initOneTap() {
+        const token = valueFromCookie("ScalenutSyncToken")?.split("ScalenutSyncToken=")[1];
+        if (token) {
+            const ScalenutSyncToken = JSON.parse(token);
+            console.log("oneTapTokenWebsite", ScalenutSyncToken);
+            // Set data here
+            // ... Existing code for setting data
+            return;
+        }
+
+        const a = google.accounts.id.initialize({
+            client_id: "466601860416-thij5f8b08j5nslathiom9t0fneoe8t4.apps.googleusercontent.com",
+            cancel_on_tap_outside: false,
+            callback: oneTapGoogle,
+        });
+        console.log(a);
+        google.accounts.id.prompt((notification) => {
+            console.log("Google notification", notification);
+        });
+    }
+
+    // Function to extract value from cookie
+    function valueFromCookie(key) {
+        const temp = decodeURIComponent(document.cookie).split(";");
+        for (let i = 0; i < temp.length; i++) {
+            if (temp[i].split("=")[0]?.trim() == key) {
+                return temp[i];
+            }
+        }
+        return null;
+    }
+
+    // Function to handle One Tap Google response
+    function oneTapGoogle(e) {
+        // Set cookie here
+        document.cookie = "ScalenutToken=" + e.credential + ";domain=.scalenut.com;path=/";
+        let currentPagePath = window.location.pathname === '/' ? 'home' : window.location.pathname.substring(1);
+
+        window.location.replace(`https://app.scalenut.com/auth${window.location.search}&landing_page=${landingPageValue}&context=${currentPagePath}_google_signin`);
+    }
+
+    // Initialize One Tap after Google Accounts script is loaded
+    googleScript.onload = function() {
+        initOneTap();
+    };
+};
+
+</script>
+<!-- End of OneTap Code -->
+<!-- Start of First Promoter Code -->
+<script defer src="https://cdn.firstpromoter.com/fpr.js"></script>
+
+<script defer>
+(function(w){w.fpr=w.fpr||function(){w.fpr.q = w.fpr.q||[];w.fpr.q[arguments[0]=='set'?'unshift':'push'](arguments);};})(window);
+fpr("init", {cid:"8um5tkvy"}); 
+fpr("click");
+</script>
+<!-- Facebook Pixel Code -->
+<!-- LinkedIn Conversion Event Code -->
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2513521&conversionId=4220722&fmt=gif" />
+
+ <script>
+    // Create the script element
+    var script = document.createElement('script');
+    script.src = 'https://connect.facebook.net/en_US/fbevents.js';
+
+    // Delay the script execution by a specific time
+    setTimeout(function() {
+      // Append the script element to the document
+      document.body.appendChild(script);
+    }, 2000); // Delay time in milliseconds (e.g., 2000ms = 2 seconds)
+  </script>
+<script defer>
+    window.fbq = function() {
+      fbq.callMethod ? fbq.callMethod.apply(fbq, arguments) : fbq.queue.push(arguments);
+    };
+    fbq.push = fbq;
+    fbq.loaded = true;
+    fbq.version = '2.0';
+    fbq.queue = [];
+    fbq('init', '3539489179480801');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img height="1" width="1" style="display:none" 
+      src="https://www.facebook.com/tr?id=3539489179480801&ev=PageView&noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DW8TQM" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+<script defer src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+
+
+  <script data-cfasync="false" type="text/javascript">
+    window.civchat = {
+      apiKey: "fpdmq0",
+    };
+  </script>
+  <script data-cfasync="false" type="text/javascript" defer src="https://scalenut.user.com/widget.js"></script>
+
+
+
+<script>
+
+if (typeof window.cookieconsent !== 'undefined') {
+    window.cookieconsent.initialise({
+        "palette": {
+            "popup": {
+                "background": "#020249"
+            },
+            "button": {
+                "background": "#fff",
+                "text": "#020249"
+            }
+        },
+        "theme": "classic",
+        "position": "bottom-left",
+        "content": {
+            "href": "https://www.scalenut.com/privacy-policy"
+        }
+    });
+}
+
+</script>
+
+<script defer src='https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/10.0.2/js/intlTelInput.min.js'></script>
+<script>
+function getLandingPageCookie() {
+  var cookieName = "landing_page";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var cookieArray = decodedCookie.split(";");
+
+  for (var i = 0; i < cookieArray.length; i++) {
+    var cookie = cookieArray[i];
+
+    while (cookie.charAt(0) === " ") {
+      cookie = cookie.substring(1);
+    }
+
+    if (cookie.indexOf(cookieName + "=") === 0) {
+      return cookie.substring(cookieName.length + 1, cookie.length);
+    }
+  }
+
+  return null; // Cookie not found
+}
+
+var landingPageValue = getLandingPageCookie();
+  
+ let hostUrl;
+
+ if(location.hostname.includes('scalenutsm.webflow.io')){
+   hostUrl = "https://appscalenut.web.app/auth/";
+ }
+ else{
+   hostUrl = "https://app.scalenut.com/auth/";
+ }
+
+   function validateEmail(email) {
+      const res = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+      return res.test(String(email).toLowerCase());
+   }
+
+   function redirectToApp(
+      checkPath,
+      redirectButtonClass,
+      emailId,
+      nameId,
+      context
+   ) {
+      
+      if (location.pathname == checkPath) {
+         const subBtn = document.querySelector(redirectButtonClass);
+         subBtn.addEventListener('click', () => {
+            const email = emailId ? document.getElementById(emailId).value : "";
+            const name = nameId ? document.getElementById(nameId).value : "";
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            const queryUtmSource = urlParams.get('utm_source');
+            const queryUtmMedium = urlParams.get('utm_medium');
+            const queryUtmCampaign = urlParams.get('utm_campaign');
+            const queryReferCode = urlParams.get('refer');
+          //added on 27-02
+            const queryKeyword = urlParams.get('keyword');
+           if (validateEmail(email)) {
+              if (queryReferCode) {
+                  setTimeout(() => {
+                     window.location.assign(
+                        `${hostUrl}?email=${email}&name=${name}&context=${context}&refer=${queryReferCode}&landing_page=${landingPageValue}`
+                     );
+                  }, 1000);
+                }
+               
+
+              else if (queryReferCode && queryUtmSource) {
+                  setTimeout(() => {
+                     window.location.assign(
+                        `${hostUrl}?email=${email}&name=${name}&context=${context}&refer=${queryReferCode}&utm_source=${queryUtmSource}&utm_medium=${queryUtmMedium}&utm_campaign=${queryUtmCampaign}&landing_page=${landingPageValue}`
+                     );
+                  }, 1000);
+                }
+               
+               else if (queryUtmSource) {
+                   setTimeout(() => {
+                      window.location.assign(
+                         `${hostUrl}?email=${email}&name=${name}&context=${context}&utm_source=${queryUtmSource}&utm_medium=${queryUtmMedium}&utm_campaign=${queryUtmCampaign}&landing_page=${landingPageValue}`
+                      );
+                   }, 1000);
+                 }
+                else {
+                    setTimeout(() => {
+                       window.location.assign(
+                          `${hostUrl}?email=${email}&context=${context}&landing_page=${landingPageValue}`
+                       );
+                    }, 3000);
+               }
+
+           }
+         });
+      }
+   }
+  
+   redirectToApp('/social', '.social-form-submit', 'Social-Email', 'Social-Name', 'social');
+   redirectToApp('/quality', '.quality-form-submit', 'Subscribe-Email-2', 'Subscribe-Name-2', 'quality');
+   redirectToApp('/quality', '.quality-cta-button', 'email-2', null, 'quality');
+   redirectToApp('/generate', '.generateai-cta', 'email-2', null, 'generate');
+
+   function getCookie(cname) {
+      var name = cname + "=";
+      var decodedCookie = decodeURIComponent(document.cookie);
+      var ca = decodedCookie.split(';');
+      for (var i = 0; i < ca.length; i++) {
+         var c = ca[i];
+         while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+         }
+         if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+         }
+      }
+      return "";
+   }
+
+   var exdays = new Date();
+   exdays.setTime(exdays.getTime() + (60 * 24 * 60 * 60 * 1000));
+   var expires = "expires=" + exdays.toUTCString();
+
+   const signupBtn = document.querySelector("#sign-up");
+   const loginBtn = document.querySelector("#sign-in");
+   const queryString = window.location.search;
+   const urlParams = new URLSearchParams(queryString);
+   const queryUtmSource = urlParams.get('utm_source');
+   const queryUtmMedium = urlParams.get('utm_medium');
+   const queryUtmCampaign = urlParams.get('utm_campaign');
+   const queryReferCode = urlParams.get('refer');
+    //added on 27-02
+   const queryKeyword = urlParams.get('keyword');
+
+
+   if (queryUtmSource) {
+      document.cookie = "utm_source" + "=" + queryUtmSource + ";" + expires + ";path=/";
+   }
+   if (queryUtmMedium) {
+      document.cookie = "utm_medium" + "=" + queryUtmMedium + ";" + expires + ";path=/";
+   }
+   if (queryUtmCampaign) {
+      document.cookie = "utm_campaign" + "=" + queryUtmCampaign + ";" + expires + ";path=/";
+   }
+   if (queryReferCode) {
+      document.cookie = "refer" + "=" + queryReferCode + ";" + expires + ";path=/";
+   }
+   if (queryKeyword) {
+        document.cookie = "keyword" + "=" + queryKeyword + ";" + expires + ";path=/";
+     }
+
+
+   const utm_source = getCookie("utm_source");
+   const utm_medium = getCookie("utm_medium");
+   const utm_campaign = getCookie("utm_campaign");
+   const refer = getCookie("refer");
+   const keyword = getCookie("keyword");
+
+/*
+
+   if (signupBtn) {
+      signupBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+
+        if (refer) {
+                  window.location.assign(
+                     `${hostUrl}?context=Nav-${location.pathname}&refer=${refer}&landing_page=${landingPageValue}`
+                  );
+        } 
+        else if (keyword && utm_source) {
+                   window.location.assign(
+                      `${hostUrl}?context=Nav-${location.pathname}&utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&keyword=${keyword}&landing_page=${landingPageValue}`
+                   );
+              }
+
+        else if (refer && utm_source) {
+                  window.location.assign(
+                     `${hostUrl}?context=Nav-${location.pathname}&refer=${refer}&utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&landing_page=${landingPageValue}`
+                  );
+        } 
+
+         else if (utm_source) {
+                   window.location.assign(
+                      `${hostUrl}?context=Nav-${location.pathname}&utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&landing_page=${landingPageValue}`
+                   );
+         } 
+        else
+                {
+                   window.location.assign(
+                      `${hostUrl}?context=Nav-${location.pathname}&landing_page=${landingPageValue}`
+                   );
+                 }
+         
+      });
+   }
+  
+   if (loginBtn) {
+      loginBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+                   window.location.assign(
+                      `${hostUrl}?context=header-${landingPageValue}`
+                   );
+      });
+   }
+*/
+   function simpleRedirectToApp(
+      checkPath,
+      redirectButtonClass,
+      context) 
+        {
+      try{
+      if (location.pathname == checkPath) {
+         const subBtn = document.querySelector(redirectButtonClass);
+
+         subBtn.addEventListener('click', () => {
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            const queryUtmSource = urlParams.get('utm_source');
+            const queryUtmMedium = urlParams.get('utm_medium');
+            const queryUtmCampaign = urlParams.get('utm_campaign');
+            const queryReferCode = urlParams.get('refer');
+            //added on 27-02
+            const queryKeyword = urlParams.get('keyword');
+           var landingPageValue = getLandingPageCookie();
+
+            console.log(refer,'refer');
+
+            if (refer) {
+                   window.location.assign(
+                      `${hostUrl}?context=${context}&refer=${refer}&landing_page=${landingPageValue}`
+                   );
+              }
+          	else if (keyword && utm_source) {
+                   window.location.assign(
+                      `${hostUrl}?context=${context}&utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&keyword=${keyword}&landing_page=${landingPageValue}`
+                   );
+              }
+            else if (refer && utm_source) {
+                   window.location.assign(
+                      `${hostUrl}?context=${context}&refer=${refer}&utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&landing_page=${landingPageValue}`
+                   );
+              }
+            
+            else if (utm_source) {
+                   window.location.assign(
+                      `${hostUrl}?context=${context}&utm_source=${utm_source}&utm_medium=${utm_medium}&utm_campaign=${utm_campaign}&landing_page=${landingPageValue}`
+                   );
+              }
+            else {
+                  window.location.assign(
+                     `${hostUrl}?context=${context}&landing_page=${landingPageValue}`
+                  );
+            }
+
+         });
+      }
+   }
+          catch(err){ console.log(err,"error") }
+        }
+
+
+
+   /* $(window).scroll(function () {
+      var sticky = $('.navbar-3'),
+         scroll = $(window).scrollTop();
+
+      if (scroll >= 100) sticky.addClass('fixed');
+      else sticky.removeClass('fixed');
+   }); */
+
+   /*$('#sign-up,.sales').click(function () {
+      window.startConversation();
+   })*/
+
+   var status = false, offering;
+   $(document).ready(function () {
+
+      $('.accordian-list').click(function () {
+
+         if ($(this).children('.list-item-5').text() == '') {
+            $(this).children('.list-item-5').text('');
+         }
+         else {
+            $(this).children('.list-item-5').text('');
+         }
+      });
+
+
+      Webflow.push(function () {
+
+         // Hover image change
+         $('img[data-hover-image]').hover(function () {
+            var el = $(this); el.attr('data-hover-original-image', el.attr('src')).attr('src', el.attr('data-hover-image'));
+         }, function () {
+            var el = $(this); el.attr('src', el.attr('data-hover-original-image'));
+         });
+      });
+
+      var url = window.location.pathname;
+      $('#url').val(url);
+
+});
+   _linkedin_partner_id = "2513521"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+  
+  // CTA calling for Top Banner in Nav
+const currentPath = window.location.pathname;
+
+// Generate custom field based on the current URL path
+const customField = (currentPath === '/' ? 'home' : currentPath.substr(1)) + '-top-banner';
+  const customFieldMob = (currentPath === '/' ? 'home' : currentPath.substr(1)) + '-top-bannerMob';
+   const customFooterFieldMob = (currentPath === '/' ? 'home' : currentPath.substr(1)) + '-footer-form';
+     const custombtmBanner = (currentPath === '/' ? 'home' : currentPath.substr(1)) + '-btmBanner';
+
+  
+
+// Call the function with the generated custom field
+simpleRedirectToApp(currentPath, '#top-banner', customField);
+simpleRedirectToApp(currentPath, '#top-banner-mob', customFieldMob);
+  simpleRedirectToApp(currentPath, '#footer-form-submit', customFooterFieldMob);
+  simpleRedirectToApp(currentPath, '#bf_btmBanner', custombtmBanner);
+  
+   </script>
+
+
+<script>
+_linkedin_partner_id = "2513521"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+   </script>
+<noscript> <img height="1" width="1" style="display:none;" alt=""
+      src="https://px.ads.linkedin.com/collect/?pid=2513521&fmt=gif" /> </noscript>
+
+
+<p> <script> document.addEventListener('DOMContentLoaded', function() {   var firstInput = document.getElementById('firstInputId');  var secondInput = document.getElementById('secondInputId');  firstInput.addEventListener('input', function() {     secondInput.value = firstInput.value;   }); }); </script></p>
+
+
+<!-- calendly popup(new) -->
+  <script>
+        class CalendlyModal {
+            constructor(url) {
+                this.url = url;
+                this.modal = null;
+                this.iframe = null;
+                this.closeBtn = null;
+                this.init();
+            }
+
+            init() {
+                // Create modal element
+                this.modal = document.createElement("div");
+                this.modal.className = "tiny-iframe-modal";
+                this.modal.innerHTML = `
+                <span class="tiny-iframe-close">&times;</span>
+                <div class="tiny-iframe-modal-content">
+                  <div class="tiny-iframe-container">
+                    <iframe class="tiny-iframe" src="about:blank"></iframe>
+                  </div>
+                </div>
+              `;
+                document.body.appendChild(this.modal);
+
+                // Get elements
+                this.iframe = this.modal.querySelector(".tiny-iframe");
+                this.closeBtn = this.modal.querySelector(".tiny-iframe-close");
+
+                // Set up event listeners
+                this.closeBtn.onclick = this.hide.bind(this);
+                this.modal.onclick = (event) => {
+                    if (event.target === this.modal) {
+                        this.hide();
+                    }
+                };
+
+                // Initialize state
+               const url = new URL(this.url);
+                try {
+                    
+                    url.searchParams.append("embed_domain", window.location.hostname);
+                    url.searchParams.append("embed_type", "PopupText");
+                } catch (e) { }
+
+                this.url = url.toString();
+                this.setIframeSource(this.url);
+                this.hide();
+            }
+
+            show = (iframeSrc = null) => {
+                if (typeof iframeSrc === "string") {
+                    this.iframe.src = iframeSrc;
+                }
+                this.modal.style.width = "100%";
+                this.modal.style.height = "100%";
+            }
+
+            hide() {
+                this.modal.style.width = "1px";
+                this.modal.style.height = "1px";
+            }
+
+            setIframeSource(url) {
+                this.iframe.src = url;
+            }
+        }
+
+ function initCalendly(selector, link) { const show = new CalendlyModal(link).show;
+                document.querySelectorAll(selector).forEach(e => e.onclick = show )
+            }
+      
+    </script>
+<script>
+//simpleRedirectToApp('/blogs/html-codes-list', '#popup', 'blogs-html-codes-list-exit-intent-popup');
+simpleRedirectToApp('/blogs/html-codes-list', '#blog-form-TY', 'blogs-html-codes-list-blog-form-TY');
+simpleRedirectToApp('/blogs/html-codes-list', '#blogs-side-banner', 'blogs-html-codes-list-side-banner');
+//simpleRedirectToApp('/blogs/html-codes-list', '#sidebar-popup', 'blogs-html-codes-list-sidebar-popup');
+simpleRedirectToApp('/blogs/html-codes-list', '#footer-banner', 'blogs-html-codes-list-footer-banner');
+simpleRedirectToApp('/blogs/html-codes-list', '#blog-sticky-1', 'blogs-html-codes-list-sticky-banner-01');
+simpleRedirectToApp('/blogs/html-codes-list', '#blog-sticky-2', 'blogs-html-codes-list-sticky-banner-02');
+simpleRedirectToApp('/blogs/html-codes-list', '#blog-sticky-3', 'blogs-html-codes-list-sticky-banner-03');
+simpleRedirectToApp('/blogs/html-codes-list', '#blog-01', 'blogs-html-codes-list-01');
+simpleRedirectToApp('/blogs/html-codes-list', '#sign-in', 'blogs-html-codes-list-NavL');
+simpleRedirectToApp('/blogs/html-codes-list', '#sign-up', 'blogs-html-codes-list-NavS');
+simpleRedirectToApp('/blogs/html-codes-list', '#sign-in-mob', 'blogs-html-codes-list-Mob-NavL');
+  simpleRedirectToApp('/blogs/html-codes-list', '#sign-up-mob', 'blogs-html-codes-list-Mob-NavS');
+simpleRedirectToApp('/blogs/html-codes-list', '#sign-up-mob-nav', 'blogs-html-codes-list-Mob-NavH');
+simpleRedirectToApp('/blogs/html-codes-list', '#exit-intent-1', 'blogs-html-codes-list-exit-intent-1');
+simpleRedirectToApp('/blogs/html-codes-list', '#in-blog-cta-1', 'blogs-html-codes-list-in-blog-cta-1');
+simpleRedirectToApp('/blogs/html-codes-list', '#in-blog-cta-2', 'blogs-html-codes-list-in-blog-cta-2');
+simpleRedirectToApp('/blogs/html-codes-list', '#in-blog-cta-3', 'blogs-html-codes-list-in-blog-cta-3');
+simpleRedirectToApp('/blogs/html-codes-list', '#in-blog-cta-4', 'blogs-html-codes-list-in-blog-cta-4');
+
+
+
+</script>
+
+
+<script>
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    const id = entry.target.getAttribute("id");
+    if (entry.isIntersecting) {
+      document.querySelectorAll(".active").forEach((z) => {
+        z.classList.remove("active")
+      });
+      document.querySelector(`a[href="#${id}"]`).classList.add("active");
+    }
+  });
+}, { rootMargin: '0px 0px -75% 0px' });
+</script>
+
+
+<script>
+document.getElementById("content").querySelectorAll("h2").forEach(function(heading, i) { // runs a function for all headings inside your rich text element
+  observer.observe(heading);
+  heading.setAttribute("id", "toc-" + i); // gives each heading a unique id
+  const item = document.createElement("a"); // creates an anchor element called "item" for each heading
+  item.innerHTML = heading.innerHTML; // gives each item the text of the corresponding heading
+  ("h2").split(",").forEach(function(x) { // runs a function for each item in your headings list
+    if (heading.tagName.toLowerCase()==x) {
+      item.classList.add("tocitem", "toc-" + x); // gives each item the correct class
+    }
+  });
+  item.setAttribute("href", "#toc-" + i); // gives each item the correct anchor link
+  document.querySelector("#toc").appendChild(item); // places each item inside the Table of Contents div
+});
+</script>
+
+<!-- Social sharing buttons codes -->
+<script>
+  $(document).ready(function() {
+    let title = document.title;
+    let url = window.location.href;
+    $('[data-share-facebook]').attr('href', 'https://www.facebook.com/sharer/sharer.php?u=' + url + '%2F&title=' + title + '%3F');
+    $('[data-share-facebook]').attr('target', '_blank');
+
+    $('[data-share-twitter]').attr('href', 'https://twitter.com/share?url=' + url + '%2F&title=' + title + '&summary=');
+    $('[data-share-twitter]').attr('target', '_blank');
+
+    $('[data-share-linkedin]').attr('href', 'https://www.linkedin.com/shareArticle?mini=true&url=' + url + '%2F&title=' + title + '&summary=');
+    $('[data-share-linkedin]').attr('target', '_blank');
+
+    $('[data-share-whatsapp]').attr('href', 'https://wa.me/?text=' + url);
+    $('[data-share-whatsapp]').attr('target', '_blank');
+
+    $('[data-copy-url]').click(function(event) {
+      event.preventDefault();
+
+      // Copy the current page URL to the clipboard
+      navigator.clipboard.writeText(url)
+        .then(() => {
+          console.log('Page URL copied to clipboard:', url);
+          alert('URL copied to clipboard!');
+        })
+        .catch((error) => {
+          console.error('Failed to copy page URL to clipboard:', error);
+        });
+    });
+  });
+</script>
+
+<!-- Social sharing buttons codes -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.scalenut.com/blogs/html-codes-list"
+  },
+  "headline": "Mastering HTML: The Complete HTML Codes List Reference",
+  "description": "Access the essential HTML codes list you need for web development. Our blog provides a comprehensive reference guide for all your coding needs.
+",
+  "image": "https://cdn.prod.website-files.com/60ef088dd8fef99352abb434/650d715703204e7241295dea_html%20codes%20list.webp",  
+  "author": {
+    "@type": "Organization",
+    "name": "Scalenut"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Scalenut",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/60ef088dd8fef919efabb412/60ffb7d1d6904ecceb53939e_SN%20-%20Logo.svg"
+    }
+  },
+  "datePublished": "Sep 22, 2023"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Home",
+    "item": "https://www.scalenut.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Blogs",
+    "item": "https://www.scalenut.com/blog"
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Mastering HTML: The Complete HTML Codes List Reference",
+    "item": "https://www.scalenut.com/blogs/html-codes-list"  
+  }]
+}
+</script>
+
+
+</body></html>
