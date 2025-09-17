@@ -13,6 +13,62 @@
     .container-fluid {
         background-color: rgb(197, 193, 193);
     }
+
+  
+
+    /* Sidebar responsive */
+    @media (max-width: 992px) {
+        .col-2 {
+            display: inline-block;
+            width: 100%; 
+        }
+        .col-10 {
+            width: 100% !important; 
+        }
+    }
+
+    /* Navbar and profile section adjust on small devices */
+    @media (max-width: 768px) {
+        .row.p-2.mb-3.bg-primary.sticky-top {
+            flex-direction: column;
+            text-align: center;
+        }
+        .row.p-2.mb-3.bg-primary.sticky-top .col-3,
+        .row.p-2.mb-3.bg-primary.sticky-top .col-6 {
+            width: 100%;
+            justify-content: center !important;
+            margin-bottom: 10px;
+        }
+        .row.p-2.mb-3.bg-primary.sticky-top .col-3.d-flex {
+            justify-content: center;
+        }
+    }
+
+    /* Cards and sections responsive */
+    @media (max-width: 768px) {
+        .row.m-1.mb-3,
+        .row.mb-3,
+        .row.mb-3.p-2 {
+            flex-direction: column;
+        }
+        .card.col-5,
+        .col-6.card,
+        .col-5,
+        .col-6 {
+            width: 100% !important;
+            margin-bottom: 15px;
+        }
+    }
+
+    /* Images responsive */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    iframe {
+        max-width: 100%;
+    }
 </style>
 
 <body>
@@ -199,7 +255,7 @@
                             <span class="input-group-text" id="search"><i class="fa fa-search"></i></span>
                             <input type="text" class="form-control" placeholder="serach" aria-label="search"
                                 aria-describedby="search" />
-                                <span class="input-group-text" id="serach">Search</span>
+                            <span class="input-group-text" id="serach">Search</span>
                         </div>
                     </div>
 
@@ -277,10 +333,11 @@
                                     <h4>Social Feed</h4>
                                 </div>
                                 <div class="col-6 d-flex justify-content-end gap-3 ">
-                                    <a class="text-end link-offset-2 link-underline link-underline-opacity-0">Hyper ></a>
+                                    <a class="text-end link-offset-2 link-underline link-underline-opacity-0">Hyper
+                                        ></a>
                                     <a class="text-end link-offset-2 link-underline link-underline-opacity-0">Apps ></a>
                                     <p class="text-ends">Social Feed</p>
-                                </div>  
+                                </div>
                             </div>
                             <div class="row m-1 mb-3">
                                 <div class="card col-5 border p-3">
@@ -390,10 +447,12 @@
                                             </div>
                                             <div class="col-6 ">
                                                 <div>
-                                                    <img src="./images/clg.jpg" class="rounded mb-3" height="220px" width="360px" />
+                                                    <img src="./images/clg.jpg" class="rounded mb-3" height="220px"
+                                                        width="360px" />
                                                 </div>
                                                 <div>
-                                                    <img src="./images/clg.jpg" class="rounded" height="210px" width="360px" />
+                                                    <img src="./images/clg.jpg" class="rounded" height="210px"
+                                                        width="360px" />
                                                 </div>
                                             </div>
                                         </div>

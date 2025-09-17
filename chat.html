@@ -73,6 +73,63 @@
         color:black;
         font-size: 10px;
     }
+
+
+/* Sidebar responsive */
+@media (max-width: 992px) {
+    .col-2 {
+        display: inline-block;
+        width: 100%; /* mobile पर sidebar hide */
+    }
+    .col-10 {
+        width: 100% !important; /* content full width लेगा */
+    }
+}
+
+/* Navbar responsive */
+@media (max-width: 768px) {
+    .row.p-2.mb-3.bg-primary.sticky-top {
+        flex-direction: column;
+        text-align: center;
+    }
+    .row.p-2.mb-3.bg-primary.sticky-top .col-3,
+    .row.p-2.mb-3.bg-primary.sticky-top .col-6 {
+        width: 100% !important;
+        justify-content: center !important;
+        margin-bottom: 10px;
+    }
+    .row.p-2.mb-3.bg-primary.sticky-top .col-3.d-flex {
+        justify-content: center;
+    }
+}
+
+/* Cards responsive */
+@media (max-width: 768px) {
+    .row.m-1.mb-3,
+    .row.mb-3,
+    .row.mb-3.p-2 {
+        flex-direction: column;
+    }
+    .card.col-5,
+    .col-6.card,
+    .col-5,
+    .col-6 {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+}
+
+/* Image & iframe responsive */
+img {
+    max-width: 100%;
+    height: auto;
+}
+iframe {
+    max-width: 100%;
+    height: auto;
+}
+
+ 
 </style>
 
 <body>

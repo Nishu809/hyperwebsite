@@ -10,34 +10,60 @@
     <script src="https://kit.fontawesome.com/26404de42c.js" crossorigin="anonymous"></script>
 </head>
 <style>
-    @media screen and (max-width:576px) {
-
-        #sidebar {
-            width: 100%;
-        }
-
-        #navbar {
-            width: 100%;
-        }
-
-        #navbar>div>div {
-            width: 100%;
-            flex-direction: column;
-            padding: 5px;
-        }
-
-
-        #navbar>div>div .input-group {
-            width: 100%;
-        }
-
-        #navbar>div>div:nth-child(2) {
-            width: 100%;
-            padding: 5px;
-            flex-direction: row;
-            justify-content: space-between !important;
-        }
+  /* 📱 Phone (max 576px) */
+@media screen and (max-width: 576px) {
+    #sidebar {
+        width: 100%;
+        position: relative;
+        min-height: auto;
     }
+
+    #navbar {
+        width: 100%;
+    }
+
+    #navbar > div > div {
+        flex-direction: column;
+        width: 100%;
+        padding: 5px;
+    }
+
+    #navbar .input-group {
+        width: 100%;
+    }
+
+    #navbar > div > div:nth-child(2) {
+        width: 100%;
+        flex-direction: row;
+        justify-content: space-between !important;
+        padding: 5px;
+    }
+
+    .content-page {
+        padding: 10px;
+    }
+}
+
+/* 💻 Laptop/Desktop (min 992px) */
+@media screen and (min-width: 992px) {
+    #sidebar {
+        width: 20%;
+        min-height: 100vh; /* full height */
+        position: fixed;
+        left: 0;
+        top: 0;
+    }
+
+    #navbar {
+        width: 80%;
+        margin-left: 20%;
+    }
+
+    .content-page {
+        padding: 20px;
+    }
+}
+
 </style>
 
 <body>

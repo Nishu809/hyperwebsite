@@ -12,6 +12,66 @@
         .container-fluid {
             background-color: rgb(209, 207, 207);
         }
+
+        /* 📱 Phone screens (max 576px) */
+        @media screen and (max-width: 576px) {
+
+            /* Sidebar becomes full-width on top */
+            .col-2.bg-success {
+                width: 100% !important;
+                position: relative;
+                min-height: auto;
+            }
+
+            /* Main content below sidebar */
+            .col-10 {
+                width: 100% !important;
+                margin-left: 0 !important;
+            }
+
+            /* Navbar stacks vertically */
+            .row.p-2.bg-primary.mb-3.sticky-top {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            /* Search bar full width */
+            .input-group {
+                width: 100%;
+            }
+
+            /* Profile image smaller */
+            .col-3.d-flex img {
+                height: 40px !important;
+                width: 40px !important;
+            }
+
+            /* Cards stack */
+            .card {
+                width: 100% !important;
+                margin-bottom: 15px;
+            }
+        }
+
+        /* 💻 Laptop/Desktop (min 992px) */
+        @media screen and (min-width: 992px) {
+            .col-2.bg-success {
+                width: 20% !important;
+                position: fixed;
+                top: 0;
+                left: 0;
+                min-height: 100vh;
+            }
+
+            .col-10 {
+                width: 80% !important;
+                margin-left: 20% !important;
+            }
+
+            .content-page {
+                padding: 20px;
+            }
+        }
     </style>
 </head>
 
@@ -199,7 +259,7 @@
                             <span class="input-group-text" id="search"><i class="fa fa-search"></i></span>
                             <input type="text" class="form-control" placeholder="serach" aria-label="search"
                                 aria-describedby="search">
-                                <span class="input-group-text" id="serach">Search</span>
+                            <span class="input-group-text" id="serach">Search</span>
                         </div>
                     </div>
 

@@ -12,6 +12,78 @@
         .container-fluid {
             background-color: rgb(207, 205, 205);
         }
+
+        /* 📱 Phones (max-width: 576px) */
+@media screen and (max-width: 576px) {
+    /* Sidebar moves to top */
+    .col-2.bg-success {
+        width: 100% !important;
+        position: relative;
+        min-height: auto;
+    }
+
+    /* Main content full width */
+    .col-10 {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+
+    /* Navbar stacks vertically */
+    .row.p-2.bg-primary.mb-3.sticky-top {
+        flex-direction: column;
+        gap: 10px;
+        align-items: flex-start;
+    }
+
+    /* Search bar full width */
+    .input-group {
+        width: 100%;
+    }
+
+    /* Profile info shrink */
+    .col-3.d-flex img {
+        height: 40px !important;
+        width: 40px !important;
+    }
+
+    .col-3.d-flex p {
+        font-size: 14px;
+    }
+
+    /* Cards stack */
+    .card {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    iframe {
+        height: 200px;
+    }
+}
+
+/* 💻 Laptops & Desktops (min-width: 992px) */
+@media screen and (min-width: 992px) {
+    /* Sidebar fixed on left */
+    .col-2.bg-success {
+        width: 20% !important;
+        position: fixed;
+        top: 0;
+        left: 0;
+        min-height: 100vh;
+        overflow-y: auto;
+    }
+
+    /* Content adjusted */
+    .col-10 {
+        width: 80% !important;
+        margin-left: 20% !important;
+    }
+
+    .content-page {
+        padding: 20px;
+    }
+}
+
     </style>
 </head>
 
